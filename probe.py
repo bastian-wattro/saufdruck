@@ -13,6 +13,8 @@ from datetime import date
 from pprint import pprint
 from typing import Optional
 
+from simple_term_menu import TerminalMenu
+
 HISTORY_FILE = 'probe.md'
 AGAIN_MARKER = '! '
 
@@ -60,8 +62,21 @@ def pick_and_pop_song(songs, weights) -> Optional[str]:
 
 
 def get_songs() -> list[str]:
-    pdfs = [x for x in os.listdir() if x.endswith('.pdf')]
+    selected_books = get_song_books()
+    pdfs = set()
+    for book in selected_books:
+        pdfs.update(set([f"{book}/{x}" for x in os.listdir(book) if x.endswith('.pdf')]))
     return [x[:-len('.pdf')] for x in pdfs]
+
+
+def get_song_books() -> list[str]:
+    all_song_books = list(reversed(sorted([x for x in os.listdir() if x.startswith('20') and os.path.isdir(x)])))
+    options = ["all"] + all_song_books
+    book_menu = TerminalMenu(options, title="select songbooks to choose from", multi_select=True)
+    selected_books = book_menu.show()
+    if 0 in selected_books:
+        return all_song_books
+    return [options[i] for i in selected_books]
 
 
 def get_weights(song_list: list[str]) -> list[int]:
