@@ -1,0 +1,79 @@
+{pagetype: a4}
+
+{key: C}
+{no_grid}
+{title:Jetzt oder nie!}
+
+{sot}
+Intro/Strophe
+| C F |  %  | % | G   | (x2)
+Bridge
+| A-  |  %  | E-  |  %  | A-  |  %  | Bb  |  %  |
+PreChorus
+| H-  |  %  | G   |  %  | H-  |  %  | E   | %   |
+Ref
+| H- G| H- E| H- G| E   | (x2)
+| E   |
+{eot}
+
+{c: Intro}
+{start_of_verse: V1}
+[C]Heute hab ich [F]Bock auf Marme[C]laden[F]brot,
+denn so ein [C]Brot in der [F]Not tut [G]immer gut.
+ich mach den [C]Schrank auf [X](huch) was [C]seh ich [F]da?
+kein [C]Brot kein [F]Aufstrich [G]yalalalala
+{end_of_verse}
+
+{start_of_verse:Bridge}
+[A-]_ Du hast gesagt, dass alles gut wird
+wie [E-]oft hast du das gesagt
+[A-]_ ich hab versucht dir zu glauben,
+doch wie das [Bb]gehen soll, hab ich mich immer gefragt:
+{end_of_verse}
+
+{start_of_verse: Pre}
+[H-]achtzig Tote im Mittelmeer 
+Pierre Mi[G]chelle macht Karriere bei der Bundeswehr
+In [H-]Syrien ist kein Frieden in Sicht
+Ey mann ich [E]würd dir echt gern glauben doch ich kann es nicht!
+{end_of_verse}
+
+{soc}
+Du sagst:
+[H-]_ Geht auf die [G]Straße; steht [H-]auf für euer [E]Recht Kämpft, [H-]_ für die [G]Zukunft; [E]auf ins Gefecht!
+Er[H-]hebt eure [G]Stimme -	[H-]scheiß egal [E]wie - [H-]Auf gehts[G]los gehts,	[E]JETZT ODER NIE
+(x2)
+{eoc}
+
+{c: Intro}
+{start_of_verse: V2}
+[C]_ so ein [F]Scheiß, das [C]pisst mich mega [F]an,
+dass [C]ich kein Marme[F]ladenbrot [G]essen kann.
+Ich [C]wusste [F]es: die [C]Welt ist [F]schlecht,
+die [C]Welt ist [F]schlecht und [G]ungerecht.
+{end_of_verse}
+
+{c:Bridge}
+
+{start_of_verse: Pre}
+[H-]Chile stirbt für Lithium
+Ein [G]Bauer bringt dreitausend Kücken um
+Der [H-]Mittelstand spuckt auf die Unterschicht
+Ey man ich [E]würd dir echt gern glauben, doch ich kann es nicht.
+{end_of_verse}
+
+{c: Chrous}
+
+{c: Intro}
+{start_of_verse:V3 -low}
+[C]Heute hab ich [F]Bock auf Marme[C]laden[F]brot
+doch der [C]Schrank ist [F]leer, ach [G]_ große Not.
+So [C]kannes nicht [F]bleiben, ey das [C]kann nicht [F]sein.
+Ich [C]kaufe [F]Brot und Marme[G]lade ein.
+{end_of_verse}
+
+{c:Bridge : doch wie man Marmelade kauft hast du mir nie gesagt.}
+
+{c: Pre I | Chorus}
+
+[C]

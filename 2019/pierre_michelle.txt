@@ -1,0 +1,48 @@
+{pagetype: a4}
+{no_grid}
+
+{key: G-}
+{title:Pierre Michelle %{key|(%{})}}
+
+{comment: Intro: Git+Bass}
+{start_of_tab}
+|G- |Bb C |G- |Bb C |
+{end_of_tab}
+
+{start_of_verse: V1}
+Hey [G-]Pierre, Leute wie [Bb]du, die [C]gehn mir auf den [G-]Sack.
+Früher [G-]warst du echt o[Bb]k, heute [C]wählst du Af[G-]D.
+Deine [G-]Meinung nennst du [Bb]stark,[C]   ich nenn sie [G-]Quark.
+Du [G-]sprichst von Lügen[Bb]presse, besser [C]wärs, du hälst die [G-]Fresse. [x]
+{end_of_verse}
+
+{sot: Chrous}
+E |1-1-1-1-|4-4-4-4-|3-3-3-3-|3. Pierre Michelle!|
+                              --3--  --3--
+E |1-1-1-1-|4-4-4-4-|6-6-6-6-|6-8-6--4-6-4-|
+{eot}
+{sot: Bridge 1}
+E |1-------|2-------|
+{eot}
+
+{start_of_verse: V2}
+Hey [G-]Pierre, Leute, wie [Bb]du, die [C]gehn mir auf den [G-]Zeiger,
+wer im Internet [Bb]hetzt,[C]  hat keine [G-]Eier,
+deine Ansichten sind [Bb]asozial[C]  und vorstein[G-]zeitlich,
+ich denk mir bei all dem [Bb]nur[C]  "Oh Gott wie [G-]peinlich."
+{end_of_verse}
+
+{Chorus}
+{sot : Bridge2}
+                                        --3--  --3--
+E |1---|2---|3---|4---|5---|6---|6--7--|6-8-6--4-6-4|1...|
+{eot}
+
+{start_of_verse: V3}
+Hey [N.C.]Pierre, Leute wie [Bb]du, ham nen [C]Knick in der [G-]Optik,
+ach was viel [Bb]mehr noch, Pro[C]bleme mit der [G-]Logik.
+Immerhin dein [Bb]Vorname klint [C]irgendwie glo[G-]bal,
+aber was du über [Bb]Menschen denkst ist [C]eklig und [G-]burtal.
+{end_of_verse}
+
+{c: Chorus (x2)| Bridge 1}

@@ -1,0 +1,63 @@
+{pagetype: a4}
+{no_grid}
+
+{key: E}
+{title:Punkx not dead %{key|(%{} - V)}}
+
+{comment: Intro: alle B}
+{comment: V1}
+[B]  ich hab ge[A]hört, die gehts echt [E]dreckig,
+[B]  manche [A]ham dich schon für [F#]tot erklärt, doch wir
+[B]kennen uns schon [E]lange und ich [B]weiß du bist [E]zäh,
+[B]  doch das [F#]weißt du ja [E]eh.  [E]
+
+[B]  ey los ich [A]komm dich mal be[E]suchen,
+[B]  so scheiße [A]kanns dir garnicht [F#]gehn! wir ham so
+[B]einiges zusammen [E]durchgemacht und sind
+[B]oft nach einer durch[E]zechten Nacht
+[B]  am Morgen [F#]glücklich und ver[E]katert aufgewacht.  [E]
+{comment: Pre-Chorus}
+[F#]  und ich steh vor deinem [E]Krankenbett, sag mal 
+[F#]bist du noch am Start? dreh die [A]Boxen ganz laut auf und sag mir
+{soc}
+[B]Punkrock, wie [E]geht es [B]dir?
+Hast du noch [B]Bock und trinkst du [E]immernoch ge[F#]nau so viel Bier?
+Man sagt die [B]Jugend heutzu[E]tage spielt dich [B]auf dem Kla[E]vier,
+sag mir [B]Punkrock wie [F#]geht es [E]dir? [E]
+{eoc}
+
+{comment: V2}
+Ey [B]denk doch mal zu[A]rück an die [E]guten alten Zeiten,
+[B]   als wir noch [A]jung und unbe[F#]siegbar warn.
+Ran[B]dale auf der [E]Freibadwiese, [B]Bier, Pommes [E]Chips und zum 
+[B]Abschluss dann ne [F#]Arschbombe vom [E]Startblock.  [E]
+
+[B]  und dann [A]war da ja noch [E]Jenny,
+wie oft [B]saßen wir den [A]ganzen Tag vorm [F#]Penny. Wir lebten
+[B]einfach in den [E]Tag, es war ne [B]gute Zeit und ich [E]danke dir, 
+weil es vor [B]allen Dingen [F#]auch an der geilen [E]Mukke lag.  [E]
+{comment: Pre-Chorus}
+[F#]  und ich steh vor deinem [E]Krankenbett, sag mal 
+[F#]bist du noch am Start? dreh die [A]Boxen ganz laut auf und sag mir
+{soc}
+[B]Punkrock, wie [E]geht es [B]dir?
+Hast du noch [B]Bock und trinkst du [E]immernoch ge[F#]nau so viel Bier?
+Man sagt die [B]Jugend heutzu[E]tage spielt dich [B]auf dem Kla[E]vier,
+sag mir [B]Punkrock wie [F#]geht es [E]dir? [E]
+{eoc}
+{c:V3}
+[B] Ey weißt du [A]was? ich hab jetzt [E]auch so eine Band
+[B] Hauptsache [A]laut und Spaß und [F#]Bier.
+Mit Gi[B]tarren-Amps und [E]Drums und Bass und o[B]k
+es sind auch Tasten dabei
+{c:Orgel solo}
+[B]Aber [F#]scheißdrauf, es ist [E]Punkrock man! [E]
+{comment: Pre-Chorus}
+[F#]  und ich steh vor deinem [E]Krankenbett, sag mal 
+[F#]bist du noch am Start? dreh die [A]Boxen ganz laut auf und sag mir
+{soc}
+[B]Punkrock, wie [E]geht es [B]dir?
+Hast du noch [B]Bock und trinkst du [E]immernoch ge[F#]nau so viel Bier?
+Man sagt die [B]Jugend heutzu[E]tage spielt dich [B]auf dem Kla[E]vier,
+sag mir [B]Punkrock wie [F#]geht es [E]dir? [E]
+{eoc}

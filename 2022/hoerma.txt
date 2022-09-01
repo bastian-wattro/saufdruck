@@ -1,0 +1,100 @@
+{pagetype: a4}
+
+{key: A5}
+{no_grid}
+{title: Hör' ma!}
+{subtitle: The Saufdruck Hit in the key of Power A}
+
+{start_of_tab}
+(alles powerchords)
+Vers
+A | Eb | A | Ab |
+A | Eb | A | C	|
+
+Bridge
+E | E  | E/F | E/F | (x?)
+
+Fast ein Refrain
+E Eb | D Db | Emaj  | Emaj  |
+
+Refrain
+D  | Db	| D  | D   | (x?)
+{end_of_tab}
+
+{start_of_verse:V1.1}
+[A]Hör ma wie das [Eb]kracht.
+[A]Hör ma wie das [Ab]ballert.
+[A]_ Wie die Gitarre um die [Eb]Ecke schrammt.
+[A]_ und dir der Kopf weg [C]schallert.
+{end_of_verse}
+{start_of_verse:V1.2}
+[A]Hör ma wie das [Eb]schmerzt.
+[A]_+_ Wie schön das [Ab]kratzt.
+[A]_+ Wie die Texte [Eb]nörgeln.
+und jetzt [A]knall ich dir was vor den [C]Latz.
+{end_of_verse}
+
+{start_of_verse:bridge}
+Vor den [E]Latz [E] - vor den [E/F]Latz. [E/F]
+Vor den [E]Latz [E] - vor den [E/F]Latz. [E/F]
+{end_of_verse}
+
+{start_of_verse:feRef}
+Du hörst immer nur
+[E]guti [Eb]schnuti [D]highty-[Db]tighty gute [Emaj]Launemusik [Emaj]
+[E]schmusi [Eb]dusi [D]häppy-[Db]päppy gute [Emaj]Launemusik [Emaj]
+[E]fluffi [Eb]puffi [D]schnuffi [Db]knuffi gute [Emaj]Launemusik [Emaj]
+[E]kuschel [Eb]wuschel [D]puschel [Db] ich [Emaj]kann es echt nicht mehr hörn.
+{end_of_verse}
+
+{soc}
+[D]_ Ich hab jetzt ein [Db]Radio / das [D]hab ich nur für [Db]dich
+ich [D]hab das ganz ganz [Db]laut gemacht / der [E]Sound ist fürchter[E]lich.
+[D]_ und auch wenn es [Db]wehtut / ich [D]will dass Du es [Db]hörst
+[D]_ und nicht nur [Db]runterkommst / weil [E]Dich mein Punkrock [E]stört.
+{eoc}
+
+{start_of_verse:V2.1}
+[A]_ Wie gut das [Ab]schmeckt.
+Wie schön du bist
+Wie die Ohren bluten
+das ist einfach...
+{end_of_verse}
+{start_of_verse:V2.2}
+Hör ma wie das kantet
+wie das ächtzt und stöhnt
+wie du im Pogo schwitzt
+das ist einfach gold.
+{end_of_verse}
+
+{c:feRef, Ref}
+
+{start_of_verse:bridge}
+Einfach Gold!
+{end_of_verse}
+
+{c:fseRef, Ref, git solo über Vers bis git einfach chords schrammelt}
+
+{start_of_verse:low}
+Hör ma wie das fiebt
+wenn du nach hause kriechst
+Fühl mal wie dus spührst
+Fühl mal wie dus
+{end_of_verse}
+
+{start_of_verse:bridge}
+Wie dus spührst
+Wie dus spührst
+Wie dus spührst
+Wie du's spüüühren tust
+
+Wie dus spührst (vom feeling her)
+Wie dus spührst (vom feeling her)
+Wie dus spührst (vom feeling her)
+Wie dus feelen tust
+
+{end_of_verse}
+
+{c:feRef, Ref}
+{c:Outro (Vers ohne Gesang)}
+

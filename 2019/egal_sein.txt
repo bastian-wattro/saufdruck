@@ -1,0 +1,51 @@
+{pagetype: a4}
+{no_grid}
+
+{key: A-}
+{title:Egal sein %{key|(%{})}}
+
+{comment: Intro: Git}
+{start_of_tab}
+Vers: | A- | A- | G | A- |
+Ref:  | F  | G  | A | A  |
+{end_of_tab}
+
+{comment: V1.1}
+N [A-]Pickel auf der [A-]Nase [G-]- Das kann dir e[A-]gal sein.
+Kein Geschenk vom Osterhase - Das kann dir egal sein.
+Ein Loch in deiner Socke - Das kann dir egal sein.
+Im Bad ne Schamhaarlocke - Das kann dir egal sein.
+{c: V2.2 (+Sousa)}
+Ne Priese Schweißgeruch - Das kann dir egal sein.
+oder mal n dummer Spruch - Das kann dir egal sein.
+Du schielst wie eine Eule - Das kann dir egal sein.
+Auf der Stirn ne fette Beule - Das kann dir egal sein.
+
+{soc}
+Das [F]einzige, das [G]zählt, das [A]ist der Sonnenschein.
+das [F]einzige, das [G]zählt, Du bist nicht a[A]llein.
+{eoc}
+{c:Chorus Git Solo}
+
+{c: V2.1}
+Kein Geld mehr auf der Bank.  - Das kann dir egal sein.
+und jetzt schon wieder krank.  - Das kann dir egal sein.
+Die Klamotten sind von Oma - Das kann dir egal sein.
+Kein Platz mehr auf dem Sofa - Das kann dir egal sein.
+{c:V2.2}
+Deine Frau lässt einen Furz - Das kann dir egal sein.
+Die Revolution greift viel zu kurz - Das kann dir egal sein.
+Das Bier ist dir zu warm - Das kann dir egal sein.
+keine Muskeln an dei'm Arm.  - Das kann dir egal sein.
+{c:Chorus - Git Solo}
+{c:V3.1}
+Die Katze kotzt auf den Boden - Das kann dir egal sein.
+Der Chef vergisst das Loben - Das kann dir egal sein.
+Der Nachbar stöhnt zu laut - Das kann dir egal sein.
+der Fußboden ist vertaubt - Das kann dir egal sein.
+{c:V3.2}
+Du spielst den falschen Ton - Das kann dir egal sein.
+bekommst dafür kein Lohn - Das kann dir egal sein.
+Niemand bemerkt dein Talent - Das kann dir egal sein.
+und auch nicht dein schönes Hemd.  - Das kann dir egal sein.
+{c:Chorus - Git Solo - Kick - Kick+Sousa - alle - Git Solo}

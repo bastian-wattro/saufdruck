@@ -1,0 +1,77 @@
+{pagetype: a4}
+{no_grid}
+{title:Rosinchen}
+
+{comment: Intro: keins}
+{start_of_tab}
+Halb-Vers                       Ref
+ | A   | C   | G   | D7  |       | 1 2 3 4 | 1 2 3 4 |
+ | A   | C   | G   | A   |       | A   x C#|         |
+ | D7  | D7  | A7  | E7  |       | D   x C |         |
+ | A   | C   | G   | A   |       | A   x C#|         |
+ | D7  | D7  | A7  | E7  |       | E-7 x x | x x x x |
+ | A   | C   | D7  | E7  |       | A x x C#|         |
+                                 | D x x C |         |
+                                 | A x x C#|         |
+                                 | E-7     |         |
+{end_of_tab}
+
+{start_of_verse:V1.1}
+Ro[A]sinchen ist ein [C]Frauenzimmer, [G]keck und gut ge[D7]launt,
+Bei [A]Eike in der [C]Kneipe hat [G]sie mir zu ge[A]raunt:
+„[D7]Hallo schöner [D7]Mann, hast du [A7]heute noch was [E7]vor?“ 
+Ich [A]sagte „ja, [C]Bier trinken“, im [G]Fernsehen fiel ein [A7]Tor.
+"Ey", [D7]hört ich, "ich [D7]gehe jetzt, und [A7]nehm dich mit nach [E7]Haus."
+Ich [A]lies mein Bierchen [C]stehen - die [D7]Kneipe klatscht A[E7]pplaus.
+{end_of_verse}
+{c: E leertakt}
+
+{start_of_verse:V1.2}
+Wir [A]kamen oft und [C]heftig, [G]nie war es so [D7]schön,
+[A]doch dann kam der [C]Montag und wir [G]mussten beide [A]geh'n.
+Wir [D7]küssten uns. Sie [D7]sagte, sie [A7]meldet sich bei [E7]mir.
+[A]Ich war total [C]glücklich ich [G]brauchte gar kein [A]Bier.
+[D7]Mittwochabend [D7]sah ich sie [A]auf dem Schoß von [E7]Kalle.
+ich [A]blieb im [C]Laufen stehn [D7]und schmeckte nur noch [E7]Galle.
+{end_of_verse}
+
+{soc}
+Rooooooooo[A7]sinchen, ich liebe dich. Ich [D7]bin auf dich erpicht.
+[A7]Melde dich bei mir - komm schon - [E-7]_ bitte melde dich!
+{eoc}
+
+{start_of_verse:V2}
+Ich schrie herum: „Wieso nimmst du den denn mit?“
+Ich schlug ihm ins Gesicht. Sie trat mir in den Schritt.
+Da lag ich auf dem Boden und sie sagt angesäuert:
+„Ich dachte du wärst cool, doch du bist total bescheuert."
+Anderntags beim Döner - mit Allem und mit Scharf,
+kam er auch mich zu, ob er sich setzen darf.
+
+Er fragte mich „trinkst du mit mir ein Bier?“
+Er öffnete zwei Halbe und dann meinte er zu mir,
+Rosinchen sei echt cool, ich müsste das mal raffen,
+Sie spielt nach ihren Regeln und hat keinen Bock auf Affen.
+Sie ist ne freie Frau, will nichts festes, keine Zicken.
+Ich solle sie anrufen und nochmal mit ihr sprechen.
+{end_of_verse}
+
+{c: Ref}
+{start_of_verse:V3}
+[Ins Telefon]
+Ich dankte ihm und rief sie an, sie war noch ziemlich sauer,
+doch sie verzieh mir und das gab mir wieder Power.
+Und ein paar Tage später rief sie mich wieder an,
+als ich ihre Nummer sah da ging ich sofort dran.
+Ich könne zu ihr kommen und [Telefon auflegen]
+[musikalische sexy time]
+
+Rosinchen sagte dann, ich solle nicht verzweifeln
+Sie liebe mich und Andere, das müsse ich begreifen.
+Mit den andern Typen müsse ich mich arrangieren,
+Und mit den Frauen, das braucht mich nicht zu tangieren.
+_ Was soll ich sagen, so ist es halt gelaufen,
+Manchmal treff ich sie und manchmal geh ich saufen.
+{end_of_verse}
+
+{c: Ref doppelt Gesang dann Instr}

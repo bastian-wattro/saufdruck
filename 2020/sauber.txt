@@ -1,0 +1,38 @@
+{pagetype: a4}
+{no_grid}
+{key: Bb}
+{title:Sauber %{key|(%{}; vi)}
+
+{comment: Intro: Git,Bass,Keys,Drums}
+{start_of_tab}
+| G-  | Eb  | Bb  | F   |
+| G-  | Eb  | Bb  | F Bb|
+{end_of_tab}
+
+{start_of_verse: V1}
+[G-]Sauber glänzt die [Eb]Küche, [Bb]sauber glänzt das [F]Klo.
+[G-]Sauber glänzt der [Eb]Schreibtisch und das [Bb]Treppenhaus [F]sowie[Bb]so.
+
+[G-]Sauber glänzt der [Eb]Bürgersteig, das macht den [Bb] Bürgermeister [F]froh.
+[G-]Sauber glänzt die [Eb]Fußgängerzone und  [Bb]Parkbank [F]sowie[Bb]so.
+{end_of_verse}
+
+{soc}
+Der ganze [Bb]Dreck will auch nur [F]leben. deshalb [Bb] putz ihn ja nicht [F]weg,
+denn im [Bb]großen Uni[F]versum bist du 
+[Bb]auch nichts and'res [F]als ein kleiner [Bb]Fleck
+Doch mit dem [Eb]Dreck das hat auch [Bb]Grenzen, da hab ich 
+[Eb]nichts als [Eb]tau[E]be [F]Ohrn.
+Zum Beispiel [Bb]Nazis oder [Eb]Scheiße am Schuh,
+die ham hier [Bb]einfach [F]nichts ver[Bb]lor'n.
+{eoc}
+
+{start_of_verse:V2}
+[G-]Sauber glänzt der [Eb]Anzug, [Bb]sauber glänzt der [F]Schuh.
+[G-]Sauber glänzt die [Eb]Glatze, das ge[Bb]hört ja [F]auch da[Bb]zu.
+
+[G-]Sauber glänzt das [Eb]Leben, [Bb]sauber glänzt der [F]Job.
+[G-]Sauber glänzt die [Eb]Ehefrau und die [Bb]Aktien [F]stehen [Bb]top.
+{end_of_verse}
+
+{c:Chorus - Sousasolo zu Chorus - Chorus}

@@ -1,0 +1,46 @@
+{pagetype: a4}
+{no_grid}
+
+{title: Make Business }
+
+{start_of_verse: Intro}
+Keins
+{end_of_verse}
+
+
+{start_of_verse: V1}
+Die [F-]Welt ist böse und schlecht
+bisschen Business und sie wird gerecht
+bisschen Managment und Consult
+und die Welt ist ein kleines bisschen weniger kalt.
+
+Bissl Business-Plan bisschen Expansion,
+so steigt für dich auch der Mindestlohn.
+Bisschen Rüstung - bisschen Sexarbeit
+mein Portfolio ist hier besonders breit. 
+{end_of_verse}
+
+{soc}
+Wir machen doch nur [Bb]Business - kein [Db]Krieg
+Wir machen doch nur [Ab]Business - kein [Eb]Krieg (x8)
+{eoc}
+
+{start_of_verse: V2}
+Outsourcing für die Quartalsprognose
+bisschen Coka in der Unterhose.
+Bisschen Zinsaufschlag, bisschen Lobby Gruppe,
+bisschen Börsengang bisschen Hummersuppe.
+
+Das Kapital, das motiviert,
+strengst du dich an hast du's kapiert.
+Bisschen Ausbeutung für mehr Wachstum
+denn alle profitieren vom Maximum.
+{end_of_verse}
+
+{sot}
+Ref
+Bridge: F F Ab Bb
+Ref x4
+{eot}
+
+

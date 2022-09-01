@@ -1,0 +1,38 @@
+{pagetype: a4}
+{no_grid}
+{title:Haustier}
+
+{soc}
+[C-]_ Ich hab gedacht ich [Bb]kauf mir ein Haustier 
+Dabei [Ab]hat mein Haustier mich als [G]Haustier gekriegt 
+[C-]_ Ich weiß auch nicht was ich [Bb]machen soll, 
+Deshalb [Ab]Spur ich halt und [G]find es toll. 
+{eoc}
+{c: x2}
+{start_of_verse:Instromental} 
+[C]Haustier [Eb]_ [D] 
+{end_of_verse}
+
+{start_of_verse:V1}
+[C]Ich hab einen [G]Hasen – der [F]Hase ist gegen die [G]Scheibe gerannt 
+[C]Ich wollte ihm was zu [G]fressen geben –  %
+[A-]Ich wollt ihn [E-]springen lassen – %
+[A-]Er wollte [E-]in sein Häuschen - doch %
+{end_of_verse}
+
+{c: Ref | Instromental}
+
+{start_of_verse:V2}
+Ich hab einen Hunde – der Hund klaut Oma die Unterhose 
+Ich hab ihr eine neue gekauft - %
+Die Oma die geht einkaufen – %
+Die Oma sitzt beim Zahnarzt – %
+{end_of_verse}
+{c: Ref | Instromental}
+
+{c:Strophe 3}
+Ich hab ein Esel – der Esel spielt E-Gitarre. 
+Auch wenn ich versuch einzuschlafen – %
+Ich lade einen Freund ein - %
+Ich wollt mit dem Esel Eis essen – %
+{c: Ref | Instromental}

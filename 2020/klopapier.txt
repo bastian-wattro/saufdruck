@@ -1,0 +1,78 @@
+{pagetype: a4}
+{no_grid}
+
+{title:Klopapier}
+{sot}
+Intro: (1x)
+Vers: (x2)
+| F# | H C# | (x3)
+| D C# | F# |
+
+Bridge:
+| D | F#  | (x3)
+| D | C# | C#7 |
+
+Chrous:
+| F# | H C# | F# | x d d d d c#-c#-c# |
+| F# | H   | C# | x d d d d c#-c#-c# |
+| F# | H C# | F# | x d d d d c#-c#-c# |
+| F# | H C# | F# |
+{eot}
+
+
+{c:Intro}
+{start_of_verse: V1}
+[F#] Ich hab heut abend richtig [H]gut ge[C#]gessen
+[F#] man könnt fast sagen ich hab [H]mich über[C#]fressen
+[F#] Es gab Nudeln mit [H]Dosenge[C#]müse 
+und jetzt [D]geht mir ganz [C#]heftig die [F#]Düse.
+
+In mir sammelt sich ein mächtiger Haufen,
+Ich beginne zu schwitzen ich fang an zu schnaufen.
+Ich halt es kaum noch, es fängt schon an zu laufen
+doch ich müsste erstmal Klopapier kaufen.
+{end_of_verse}
+
+{start_of_verse: Bridge}
+Haste [D]Scheiße am Schuh, dann haste [F#]Scheiße am Schuh. [D F#]
+Haste [D]Scheiße am Schuh, dann haste [F#]Scheiße am Schuh. [D C#7]
+{end_of_verse}
+
+{soc}
+Wenn das [F#]Klopapier alle ist [H]werden wir [C#]alle [F#]sterben.  /Riff/
+Wenn das [F#]Klopapier alle ist [H]gibts kein Grund mehr zu [C#]sein. /Riff/
+Wenn das [F#]Klopapier alle ist [H]werden wir [C#]alle [F#]sterben. /Riff/
+Wenn das [F#]Klopapier alle ist will [H]ich auch [C#]nicht mehr [F#]sein. /Riff/
+{eoc}
+
+{start_of_verse: V1}
+Das [F#]Mädchen aus dem Wurstwaren[H]fachge[C#]schäft
+[F#]hackt das Hack [H]wirklich nicht [C#]schlecht.
+[F#] In ihrer Theke bestes [H]Schweinebauch[C#]fett
+und ich [D]glaube, sie [C#]findet mich [F#]nett.
+
+Und kurz darauf beim romantischen Movie.
+der Höhepunkt naht - wir teil'n uns n' Smoothy.
+Doch auf einmal friert der Bildschirm ein
+kein Internet? das kann doch nicht sein!
+{end_of_verse}
+
+{c:Bridge | Ref}
+Wenn das [F#]Internet alle ist, [H]werden wir [C#]alle [F#]störben!
+
+{start_of_verse: V3}
+[F#] Und komm ich heute in die [H]Kneipe [C#]rein,
+bin ich mir sicher; ich bin nicht allein.
+Ich bestell bei Eike nen Bier
+so [D]wohl fühl [C#]ich mich nur [F#]hier.
+
+[F#] Als ich wieder komm [H]vom Pisso[C#]ir
+kuckt Eike ganz ganz sonderbar
+da gibt es etwas, was die Freude hemmt, 
+denn [D]Eike sagt; der [C#]Zapfhahn [F#]klemmt
+{end_of_verse}
+
+{c: Bridge | Ref}
+Wenn der [F#]Zapfhan klemmt [H]werden wir [C#]alle [F#]sterben.
+
+Wenn das Bier alle ist <AUS>

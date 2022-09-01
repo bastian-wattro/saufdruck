@@ -1,0 +1,57 @@
+{pagetype: a4}
+{no_grid}
+{title:Frei}
+
+{sot}
+Hits/Vers   |B5      |B(b5)   |B       | B(b5)  |
+            |X·······|X·······|X·······|·X······|
+Bridge      |E       |E7      |
+            |X·X·X·X·|X·······|
+Ref/Riff    |-----B Bb | A  Ab G Gb | G | Gb |
+{eot}
+{c: Hits}
+{start_of_verse: V1}
+[B5]_ Bisher hab ich immer brav [B(b5)]_ gemacht was mein Chef mir sagt.
+[B5]_ Er hat mich angebrüllt und ich [B(b5)]hab meinen Dienst erfüllt.
+
+[B5]_ ich hab mich jeden Morgen [B(b5)]_ um sechs ausm Bett gequält;
+[B5]_ acht stunden Gas gegeben (Wofür?) [B(b5)]für ein beschiss'nes Leben.
+{end_of_verse}
+
+{start_of_verse:Bridge}
+Ich | [E]will [E]das [E]nicht [E]mehr | [E7] _  Ich | brauch das nicht mehr
+Ich mach das nicht mehr [N.C.]Bei meinem Chef im Büro (BLABLA)
+{end_of_verse}
+
+{start_of_verse: Ref}
+Mach deinen Scheiß ab jetzt alleine ich bin frei [B..Gb]
+__ ich bin frei [B..Gb] __ ich bin frei [B..Gb]
+Mach deinen [E]Scheiß ab jetzt allein (wie? ich allein?)
+mach deinen scheiß ab jetzt allein (was heißt hier scheißdreck allein?)
+mach deinen scheiß ab jetzt allein (ich ganz allein?)
+Mach deinen [E]Scheiß [N.C.]ab jetzt alleine ich bin frei
+{end_of_verse}
+{c: Riff + Git solo insgesamt 4 mal | Hits}
+{start_of_verse: V2}
+[B5]_ Bei Mama und Papa wohn [B(b5)]_ für kurze Zeit ganz schön,
+doch wenn mans länger macht dann wirds echt unangenehm.
+zieh die dicke Jacke an! wie du gehst schon wieder raus?
+fahr schön vorsichtig und komm nicht zu spät nach haus.
+{end_of_verse}
+
+{c: Bridge | Ref: Ich bin raus ich zieh aus ich bin frei! | Riff | Hits}
+{start_of_verse: V3}
+Mein Hund der hat jetzt Leinenpflicht [B]
+Er scheißt in einen Plastiksack [B B]
+Bellen darf er auch nicht mehr [B B B(b5)]
+man hat ihm einen Maulkorb verpasst [B B B B]
+{end_of_verse}
+{c: Bridge | Ref: Der scheißt jetzt einfach auf die Straße und ist frei! | Riff}
+
+{c: Hits soft + ausklingen lassen}
+{start_of_verse: V4}
+Seit Du gegangen bist, ist nichts mehr wie es war
+ich häng nur noch rum und komm auf garnix klar
+Ich hab mich eingegraben, der Welt den Rücken gekehrt
+nichts hat mehr einen Sinn und nichts hat mehr einen Wert.
+{c: Bridge | Ref: Ich zieh den Kopf aus dem Sand und bin frei! | Riff (ad lib)}

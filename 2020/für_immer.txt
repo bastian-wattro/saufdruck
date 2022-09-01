@@ -1,0 +1,74 @@
+{pagetype: a4}
+
+{key: A-}
+{no_grid}
+{title:Für immer}
+
+{sot}
+Inter: F (x4)        Vers: A- … C-
+Bridge: A- G          Ref: C G A- F
+{eot}
+
+{c: Intro}
+{start_of_verse: V1}
+[A-]Du hast schöne Fenster und so schöne Rohre
+Du hast wunderschöne Wände und Bier gibts ganz ohne Spende
+[C-]Du bist schön gemütlich denn Du hast schöne Sofas
+Die stehn auf schönem Teppich und der ist wunderschön fleckig
+{end_of_verse}
+{start_of_verse: B1}
+[A-]du bist viel mehr als nur ein guter Kompromiss
+[G]und deshalb spielen wir jetzt alle nach dem G ein Fis!
+{end_of_verse}
+[F#](x4)
+{soc}
+Für [C]immer, für [G]immer, für [A-]immer im Kra[F]wumm
+Für immer, für immer, für immer laut und Dumm (x2)
+{eoc}
+
+{start_of_verse: V2}
+In deinen Kickertisch verliebte ich mich.
+Besser würd es nur noch gehn könnte man mit Susa stehn.
+Du bis im Haus ganz unten und hast auch schon gestunken.
+Mit Spitzen Menschen obendrauf bist du für uns ganz obenauf.
+{end_of_verse}
+{start_of_verse: B2}
+Du bist für uns jeden Mittwoch da
+deshalb spielen wir jetzt alle nach dem G ein H!
+{end_of_verse}
+{c: Ref}
+
+{start_of_verse: V3}
+In dir war schon oft party hard saufdruck - wir sind am start
+Kickern, punk und saufen was wie dich kann man nicht kaufen.
+In dir ist alles Abenteuer, in uns brennt dein großes Feuer.
+Hunger und Durst gibts hier nicht, Bier und Nüsse ins Gesicht.
+{end_of_verse}
+{start_of_verse: B3}
+Du gehörst zu uns und machst uns heiß
+deshalb spielen wir jetzt statt nem E ein Eis
+{end_of_verse}
+{c: Ref}
+
+{start_of_verse: V4}
+Hier bin ich Mann, hier darf ich's sein Saufen, stinken wie ein Schwein.
+Die Quotenfrau ist voll dabei in der ganzen Schweinerei.
+Erstaunlich wie sie's aushält hier unter Männern und ohne Bier.
+Egal sie griegt das locker hin, auch Flosch ist sehr sehr feminin.
+{end_of_verse}
+{start_of_verse: B4}
+Wir spieln für Titten und für Penis unsern Lieblingston: das A-is.
+{end_of_verse}
+{c:Ref}
+
+{start_of_verse: V5\n(ruhig)}
+Du bist nicht nur ein Keller, du bist ein heiliger Schrein.
+Machst unsere Herzen heller - lässt alle euphorisch sein.
+Bei dir ist die Zapfanlage, unser Tabernakel.
+Für uns ist das keine Frage Krawumm ist pures spektakel.
+{end_of_verse}
+{start_of_verse: B5}
+Betrittst du s Krawumm spürst du die Amour,
+deshalb spielt jetzt das Sousa nur.
+{end_of_verse}
+{c: Ref}

@@ -1,0 +1,39 @@
+{pagetype: a4}
+
+{key: ?}
+{no_grid}
+{title:Saufdruck}
+
+{sot}
+F C# G# Bb 
+{eot}
+
+{soc}
+[F]Woooo ho [C#]ho - wir sind [G#]Saufdruck [Bb]_
+[F]_ und wir [C#]kommen in dein [G#]Block! [Bb]_
+[F]Woooo ho [C#]ho - wir sind [G#]Saufdruck [Bb]_
+[F]_ Wie siehts [C#]aus, habt ihr [G#] Bock? [Bb]_
+{eoc}
+
+{start_of_verse:V1}
+[F]Probe jeden [C#]Mittwoch ist die [G#]beste Thera[Bb]pie,
+Saufdruck ist für mich n 6er in der Lotterie.
+Deine Lieblingsband? SAUF-DRUCK
+die ist so gut, darauf nehm ich nochn Schluck.
+{end_of_verse}
+{chorus}
+{start_of_verse: V2}
+Wir haben echt nicht viele Regeln aber eins das ist safe klar
+neue Probe; neuer Song als obs schon immer so war.
+spielen einfach was wir wolln ohne tamtam ohne tratra
+Texte haun einfach raus ohne das übliche bla-bla.
+{end_of_verse}
+{chorus}
+{start_of_verse:V3}
+Doch im Kapitalismus haben wir auch einen Preis;
+ohne Bier vom vom Fass wär das alles hier nur Scheiß
+mehr weiß ich nicht zu sagen - mehr Gage will ich nicht
+deshalb stellt euch einfach alle noch ein Bier ins Gesicht!
+{end_of_verse}
+{chorus}
+
