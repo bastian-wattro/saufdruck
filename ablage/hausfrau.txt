@@ -1,0 +1,48 @@
+{pagetype: a4}
+
+{key: A-}
+{no_grid}
+{title:Hausfrau}
+
+{comment: Intro: Git softe 8teln, Keys Offbeat, Drums + Wechselbass}
+{start_of_tab}
+| D- | C | (x2)
+{end_of_tab}
+
+{comment: V1}
+Die [D-]Welt ist voller Matschos mit [C]viel zu kurzen Schwänzen
+[D-]Weber-Grill, dickes Auto mit [C]Felgen in Chrom glänzend
+Ein [D-]breites Protfolio In[C]vest in Wohnobjekten
+Das [D-]Leben durchgetaktet in [C]einzelnen Projekten
+
+{c: Hausfrau Bridge}
+Und [D-]ich bin eine [A-]Hausfrau (x3)
+Und (Donald [D-]Trump) ist ein riesen [A-]Arschloch.
+
+[G  G]
+
+{c: V2}
+[D-]Selbstüberschätzung ge[C]paart mit Arroganz ist ein
+[D-]sicheres Zeichen für nen [C]viel zu kleinen Schwanz und
+[D-]wirds daheim zu langweilig, dann [C]kaufst du ein paar Frau'n
+doch [D-]nichtmal gegen Geld be[C]kommst du ihr Vertraun.
+
+{c: Hausfrau Bridge (Herr Putin)}
+
+{start_of_chorus}
+{c: Timing: |D- | A- | G | G |}
+[D-]Männlichkeits-[A-]Ideal und [G]Schwanzkontest
+[D-]geben mir [A-]sooft den [G]Rest
+[D-]Peace and [A-]Love and [G]Happyness
+[D-]oh ja wie [A-]gut, das [G]wär doch was.
+
+(nochmal mit lalalala)
+{end_of_chorus}
+
+{c: Intro | V3}
+Der [D-]Job ist so wichtig, man kommt [C]heim wenn es spät ist,
+[D-]_ das passiert mit nem [C]viel zu kurzen Penis.
+[D-]Frauen in der Chefetage [C]ham da nix verlorn
+[D-]_  und wenn doch, dann [C]gibts was auf die Ohrn.
+
+{c: Hausfrau Bridge | Ref | Sousa Bridge | Ref } 

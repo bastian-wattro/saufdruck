@@ -1,0 +1,58 @@
+{pagetype: a4}
+
+{key: H}
+{no_grid}
+{title: Fenster auf}
+
+{sot}
+Riff: C  C  Bb C Bb F F F G G (oder so)
+{eot}
+
+{c: Sax over C}
+{sot}
+(Ständige Steigerung)
+Git     | Key   | Drums | Sousa | Sax
+--------+-------+-------+-------+-----
+achteln | fläche| rims  | -     | -
+achteln | fläche| +BD   | +     | -
+achteln | fläche| +SN   | +     | +
+achteln | fläche| Ride  | Riff* | +
+{eot}
+
+{c: Riff x8}
+
+{start_of_verse: V1}
+Fenster auf - hier stinkt's!
+Mach die Hand raus, wenn du blinkst!
+Nimm WD40 - es hängt!
+Hol die Felx - wenn's klemmt!
+{end_of_verse}
+
+{start_of_verse: PreChorus}
+[A5]Hast du Hunger - friss Banane.
+Flutschs nicht richtig - nimm mal Sahne.
+Trink ein Bier und hiss die Fahne.
+Rennt sie weg, such dir ne Lahme.
+
+Ist schon Freitag - heb die Arme.
+Magst du Waffeln - hol ne warme.
+Magst du Chilli - vergiss Carne.
+Hast du Fragen - geh zu Arne.
+{end_of_verse}
+
+{c: Riff x4}
+{c: Riff: 2 Sousa + Gesang}
+{c: Riff x4}
+
+{start_of_verse: V2}
+Fenster zu - es zieht!
+Fang das Huhn ein, bevor es flieht!
+Nimm Gaffa, wenns sich bewegt.
+Wechsel den Socken, wenn er steht.
+{end_of_verse}
+
+{c: PreChorus}
+
+{c: Riff x4}
+{c: Riff: 2 Sousa + Gesang}
+{c: Riff x4}

@@ -1,0 +1,72 @@
+{pagetype: a4}
+{no_grid}
+{key: A}
+{title:Pogo}
+
+{comment: Intro: Git,Bass,Keys,Drums}
+{start_of_tab}
+Vers:   | D   | A   | D   | A   | 
+        | G   | D   | D   | A   | (x2)
+Bridge: | H-  | F#- | H-  | F#- |
+        | G   | D   | G   | A   |
+Pre:    | D   | G A | (nur Kirmes-Orgel)
+Chorus: | D5  | F5G | 
+{end_of_tab}
+
+{start_of_verse: V1}
+Es [D]gibt auf dieser Welt die ver[A]schiedensten Tänze,
+ja da [D]klappern die Schuh und es [A]fliegen die Hände.
+[G]oftmals, da kommt es auf den [D]Ausdurck an
+und [D]ob man die ganzen vielen [A]Schritte kann.
+
+doch mein [D]Pogotanz, ja mein [A]Pogotanz,
+das ist [D]Rempeln mit ausgesprochner [A]Eleganz
+ich bin [G]sicher, dass Du das ohne Er[D]klärung kannst,
+egal ob [D]dünner Lauch oder [A]fetter Wanst.
+{end_of_verse}
+{start_of_verse: Bridge}
+Jetzt [H-]kommen wir zusammen und [F#-]bilden einen Kreis, egal ob 
+[H-]jung oder alt, ob [F#-]schwarz oder weiß.
+[G]Pogo ist für jeden was ob [D]Hinz oder Kunz, durm haut mal
+[G]Luft in eure Brust und dann [A]singt mit uns:
+{end_of_verse}
+{start_of_verse: PreChorus}
+[D]Ich tanz pogo - [G]yalla la [A]la la lala
+Ich tanz pogo - yalla la lala  (x2)
+{end_of_verse}
+
+{start_of_chorus}
+[D5]Pogo [F5]... [G]... (x4)
+[D5]anstatt kuscheln - [F5]PO[G]GO!
+neue diskussionskultur - POGO!
+ich mach jetzt wieder Sport - POGO!
+und jetzt alle...
+Geburtsvorbereitungskurs - POGO!
+scheiß auf Yoga - POGO!
+scheiß auf Stress - POGO!
+Rückbildungskurs - POGO!
+{end_of_chorus}
+
+{start_of_verse:V2}
+[D]Carla sucht ihre Bri[A]lle
+Pierre Mi[D]chelle sucht seinen Ver[A]stand
+[G]Benno sucht seinen li[D]nken Schuh
+die hat [D]Jenny in der [A]Hand
+
+die [D]Stimmung die ist [A]Bombe
+das [D]Bier noch lang nicht [A]leer
+und so [G]lange dass so i[D]st
+muss die [D]nächste Runde [A]Pogo her [A]
+{end_of_verse}
+{start_of_verse:Bridge2}
+man rückt den [H-]Hut zurecht
+und die Kra[F#-]watte gerade
+man spen[H-]diert der Frisur
+ne frische [F#-]Ladung Pomade
+
+klopft den [G]Staub aus der Jacke
+und [D]rappelt sich auf
+nimmt nen [G]großen Schluck Bier
+und lässt den [A]Dingen ihren Lauf...
+{end_of_verse}
+{comment:Pre | Chorus}

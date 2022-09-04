@@ -1,0 +1,18 @@
+[[package]]
+name = "simple-term-menu"
+version = "1.5.0"
+description = "A Python package which creates simple interactive menus on the command line."
+category = "main"
+optional = false
+python-versions = "~=3.5"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "ab94325a0e5d58d69cb652fd3dc883d5bf377e4d50b1f73b57822ade0a36b0cd"
+
+[metadata.files]
+simple-term-menu = [
+    {file = "simple-term-menu-1.5.0.tar.gz", hash = "sha256:bd019c4e2e54ac9a6d1abef32910b45f72257519736497a5a7975aca3c406554"},
+    {file = "simple_term_menu-1.5.0-py3-none-any.whl", hash = "sha256:3b8b1b155716c2490547836893ad480126cfc2bc84303eae5e22a7b65b746b40"},
+]

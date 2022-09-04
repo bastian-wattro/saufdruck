@@ -1,0 +1,32 @@
+{
+    // Layout definitions for PDF output.
+
+    "pdf" : {
+			"chordscolumn" : 355,
+
+ // Style of chorus.
+ "chorus" : {
+     "indent"     :  12,
+     // Chorus side bar.
+     "bar" : {
+				"width"  :  3,
+			 },
+		 },
+
+ // Fonts.
+ "fonts" : {
+     "title" : {
+  "name" : "Helvetica-Bold",
+     },
+     "text" : {
+  "name" : "Helvetica",
+     },
+     "toc" : {
+  "name" : "Helvetica",
+     },
+ },
+    },
+		    "diagrams" : {
+        "show"     :  "none"
+    }
+}
