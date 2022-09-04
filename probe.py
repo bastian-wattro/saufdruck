@@ -23,7 +23,7 @@ DIR_BLACK_LIST: list[str] = ["deleted", "ablage"]
 def main():
     all_songs = get_songs()
     if not all_songs:
-        raise SystemExit("No songs found.")
+        raise SystemExit("Keine Lieder gefunden.")
     all_weights = get_weights(all_songs)
     list_of_choices: list[str] = []
     songs = []
@@ -81,8 +81,10 @@ def get_song_books() -> list[str]:
                       if (os.path.isdir(dir_name) and
                           not _blacklisted_dir(dir_name))]
     all_song_books.sort(reverse=True)
-    options = ["all"] + all_song_books
-    book_menu = TerminalMenu(options, title="select songbooks to choose from", multi_select=True)
+    options = ["alle"] + all_song_books
+    book_menu = TerminalMenu(options,
+                             title="Aus welchen Ordnern soll gewählt werden? (Leertaste zum an/abwählen, Enter zum Bestätigen)",
+                             multi_select=True)
     selected_books = book_menu.show()
     if 0 in selected_books:
         return all_song_books
@@ -132,17 +134,19 @@ def clean_marked(list_of_choices):
     with open(HISTORY_FILE, 'r') as history:
         for line in history:
             line = line.strip()
+            if not line:
+                continue
             if not line.startswith(AGAIN_MARKER):
                 lines_to_keep.append(line)
                 continue
-            elif line[len(AGAIN_MARKER):] not in list_of_choices:
-                pprint(f"skipped marked song {line[len(AGAIN_MARKER):]}, not in {list_of_choices}")
+            if line[len(AGAIN_MARKER):] in list_of_choices:
+                pprint(f"{line[len(AGAIN_MARKER):]} aus {HISTORY_FILE} entfernt.")
+            else:
+                pprint(f"{line[len(AGAIN_MARKER):]} bleibt markiert.")
                 lines_to_keep.append(line)
                 continue
-            else:
-                pprint(f"dropped {line[len(AGAIN_MARKER):]} from Marked")
 
-    pprint("rewriting history")
+    pprint(f"{HISTORY_FILE} wird angepasst.")
     with open(HISTORY_FILE, 'w') as history:
         for line in lines_to_keep:
             print(line, file=history)
