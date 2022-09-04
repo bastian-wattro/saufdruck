@@ -8,7 +8,6 @@ when running the script again.
 import os
 import random
 from collections import Counter
-from copy import deepcopy
 from datetime import date
 from pprint import pprint
 from typing import Optional
@@ -21,19 +20,16 @@ DIR_BLACK_LIST: list[str] = ["deleted", "ablage"]
 
 
 def main():
-    all_songs = get_songs()
-    if not all_songs:
+    songs_to_play = get_songs()
+    if not songs_to_play:
         raise SystemExit("Keine Lieder gefunden.")
-    all_weights = get_weights(all_songs)
+    song_weights = get_weights(songs_to_play)
     list_of_choices: list[str] = []
-    songs = []
-    weights = []
     try:
         while True:
-            if not songs:
-                songs = deepcopy(all_songs)
-                weights = deepcopy(all_weights)
-            song = pick_and_pop_song(songs, weights)
+            if not songs_to_play:
+                raise SystemExit("Alle Lieder gespielt.")
+            song = pick_and_pop_song(songs_to_play, song_weights)
             if song is not None:
                 list_of_choices.append(song)
     except KeyboardInterrupt:
@@ -45,24 +41,7 @@ def main():
     raise SystemExit(f"{len(list_of_choices)} Hits gerockt.")
 
 
-def pick_and_pop_song(songs, weights) -> Optional[str]:
-    if all([w == 0 for w in weights]):
-        next_song = random.choices(songs)[0]
-    else:
-        next_song = random.choices(songs, weights=weights)[0]
-
-    options = ["ja", "nein", "stop"]
-    decide_menu = TerminalMenu(options, title=f"{next_song} spielen?")
-    res = decide_menu.show()
-    if options[res] == "ja":
-        os.system('zathura ' + next_song + '.pdf')
-        pop_song(next_song, songs, weights)
-        return next_song
-    if options[res] == "nein":
-        return None
-    raise KeyboardInterrupt
-
-
+# ## GET SONGS
 def get_songs() -> list[str]:
     selected_books = get_song_books()
     pdfs = set()
@@ -71,16 +50,10 @@ def get_songs() -> list[str]:
     return [x[:-len('.pdf')] for x in pdfs]
 
 
-def _blacklisted_dir(dir_name: str) -> bool:
-    return (dir_name.startswith(".") or
-            dir_name in DIR_BLACK_LIST
-            )
-
-
 def get_song_books() -> list[str]:
     all_song_books = [dir_name for dir_name in os.listdir()
                       if (os.path.isdir(dir_name) and
-                          not _blacklisted_dir(dir_name))]
+                          not is_blacklisted_dir(dir_name))]
     all_song_books.sort(reverse=True)
     options = ["alle"] + all_song_books
     book_menu = TerminalMenu(options,
@@ -94,6 +67,13 @@ def get_song_books() -> list[str]:
     return [options[i] for i in selected_books]
 
 
+def is_blacklisted_dir(dir_name: str) -> bool:
+    return (dir_name.startswith(".") or
+            dir_name in DIR_BLACK_LIST
+            )
+
+
+# ## GET WEIGHTS
 def get_weights(song_list: list[str]) -> list[int]:
     if not os.path.isfile(HISTORY_FILE):
         return [0 for _ in song_list]
@@ -121,6 +101,32 @@ def count_played(choices: list[str]) -> Counter:
     return count_old_choices
 
 
+# ## MODIFY SONG LIST
+def pop_song(item, population, weights):
+    i = population.index(item)
+    population.pop(i)
+    weights.pop(i)
+
+
+def pick_and_pop_song(songs, weights) -> Optional[str]:
+    if all([w == 0 for w in weights]):
+        next_song = random.choices(songs)[0]
+    else:
+        next_song = random.choices(songs, weights=weights)[0]
+
+    options = ["ja", "nein", "stop"]
+    decide_menu = TerminalMenu(options, title=f"{next_song} spielen?")
+    res = decide_menu.show()
+    if options[res] == "ja":
+        os.system('zathura ' + next_song + '.pdf')
+        pop_song(next_song, songs, weights)
+        return next_song
+    if options[res] == "nein":
+        return None
+    raise KeyboardInterrupt
+
+
+# ## LOG
 def add_to_history(list_of_choices):
     today = date.today().isoformat()
 
@@ -153,12 +159,6 @@ def clean_marked(list_of_choices):
     with open(HISTORY_FILE, 'w') as history:
         for line in lines_to_keep:
             print(line, file=history)
-
-
-def pop_song(item, population, weights):
-    i = population.index(item)
-    population.pop(i)
-    weights.pop(i)
 
 
 if __name__ == '__main__':
