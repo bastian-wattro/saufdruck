@@ -42,7 +42,7 @@ def main():
     if list_of_choices:
         clean_marked(list_of_choices)
         add_to_history(list_of_choices)
-    raise SystemExit(f"Played {len(list_of_choices)} songs.")
+    raise SystemExit(f"{len(list_of_choices)} Hits gerockt.")
 
 
 def pick_and_pop_song(songs, weights) -> Optional[str]:
@@ -73,7 +73,8 @@ def get_songs() -> list[str]:
 
 def _blacklisted_dir(dir_name: str) -> bool:
     return (dir_name.startswith(".") or
-            dir_name in DIR_BLACK_LIST)
+            dir_name in DIR_BLACK_LIST
+            )
 
 
 def get_song_books() -> list[str]:
@@ -83,7 +84,9 @@ def get_song_books() -> list[str]:
     all_song_books.sort(reverse=True)
     options = ["alle"] + all_song_books
     book_menu = TerminalMenu(options,
-                             title="Aus welchen Ordnern soll gewählt werden? (Leertaste zum an/abwählen, Enter zum Bestätigen)",
+                             title=("Aus welchen Ordnern soll gewählt werden?"
+                                    "  Leertaste zum An/Abwählen,"
+                                    "  Enter zum Bestätigen (wählt aktuellen Punkt aus)"),
                              multi_select=True)
     selected_books = book_menu.show()
     if 0 in selected_books:
