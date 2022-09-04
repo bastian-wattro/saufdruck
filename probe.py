@@ -28,7 +28,7 @@ def main():
     try:
         while True:
             if not songs_to_play:
-                raise SystemExit("Alle Lieder gespielt.")
+                raise KeyboardInterrupt("Alle Lieder gespielt.")
             song = pick_and_pop_song(songs_to_play, song_weights)
             if song is not None:
                 list_of_choices.append(song)
