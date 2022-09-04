@@ -17,6 +17,7 @@ from simple_term_menu import TerminalMenu
 
 HISTORY_FILE = 'probe.md'
 AGAIN_MARKER = '! '
+DIR_BLACK_LIST: list[str] = ["deleted", "ablage"]
 
 
 def main():
@@ -70,8 +71,16 @@ def get_songs() -> list[str]:
     return [x[:-len('.pdf')] for x in pdfs]
 
 
+def _blacklisted_dir(dir_name: str) -> bool:
+    return (dir_name.startswith(".") or
+            dir_name in DIR_BLACK_LIST)
+
+
 def get_song_books() -> list[str]:
-    all_song_books = list(reversed(sorted([x for x in os.listdir() if x.startswith('20') and os.path.isdir(x)])))
+    all_song_books = [dir_name for dir_name in os.listdir()
+                      if (os.path.isdir(dir_name) and
+                          not _blacklisted_dir(dir_name))]
+    all_song_books.sort(reverse=True)
     options = ["all"] + all_song_books
     book_menu = TerminalMenu(options, title="select songbooks to choose from", multi_select=True)
     selected_books = book_menu.show()
