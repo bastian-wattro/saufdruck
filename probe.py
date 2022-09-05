@@ -21,10 +21,21 @@ DIR_BLACK_LIST: list[str] = ["deleted", "ablage"]
 
 
 def main():
+    song_weights, songs_to_play = setup()
+    list_of_choices = rocknroll(song_weights, songs_to_play)
+    finalize(list_of_choices)
+    raise SystemExit(f"{len(list_of_choices)} Hits gerockt.")
+
+
+def setup():
     songs_to_play = get_songs()
     if not songs_to_play:
         raise SystemExit("Keine Lieder gefunden.")
     song_weights = get_weights(songs_to_play)
+    return song_weights, songs_to_play
+
+
+def rocknroll(song_weights, songs_to_play):
     list_of_choices: list[str] = []
     try:
         while True:
@@ -35,11 +46,22 @@ def main():
                 list_of_choices.append(song)
     except KeyboardInterrupt:
         pass
+    return list_of_choices
 
-    if list_of_choices:
+
+def finalize(list_of_choices: list[str]) -> None:
+    if len(list_of_choices) == 0:
+        return
+    options = ["[s] speichern", "[z] zusammenfassen und verwerfen"]
+    action = TerminalMenu(options, title="Was soll mit der Session passieren?").show()
+    if action == 0:  # speichern
         clean_marked(list_of_choices)
-        add_to_history(list_of_choices)
-    raise SystemExit(f"{len(list_of_choices)} Hits gerockt.")
+        with open(HISTORY_FILE, 'a') as history:
+            print_history(list_of_choices, file=history)
+        return
+    if action == 1:  # zusammenfassen
+        print_history(list_of_choices)
+        return
 
 
 # ## GET SONGS
@@ -141,13 +163,10 @@ def pick_and_pop_song(songs, weights) -> Optional[str]:
 
 
 # ## LOG
-def add_to_history(list_of_choices):
-    today = date.today().isoformat()
-
-    with open(HISTORY_FILE, 'a') as history:
-        history.write('\n\n# ' + today + '\n\n')
-        for item in list_of_choices:
-            history.write(item + '\n')
+def print_history(list_of_choices, file=None):
+    print(f"\n# {date.today().isoformat()}", file=file)
+    for song in list_of_choices:
+        print(song, file=file)
 
 
 def clean_marked(list_of_choices):
