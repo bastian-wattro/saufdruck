@@ -12,6 +12,7 @@ from datetime import date
 from pprint import pprint
 from typing import Optional
 
+import termcolor
 from simple_term_menu import TerminalMenu
 
 HISTORY_FILE = 'probe.md'
@@ -109,10 +110,13 @@ def pop_song(item, population, weights):
 
 
 def format_song_name(next_song: str) -> str:
+    def highlight(song_name: str) -> str:
+        return termcolor.colored(song_name, color="cyan", attrs=['bold'])
+
     if '/' not in next_song:
-        return repr(next_song)
+        return highlight(next_song)
     songbook, song = next_song.split('/')
-    return f"{song!r} ({songbook})"
+    return f"{highlight(song)} ({songbook})"
 
 
 def pick_and_pop_song(songs, weights) -> Optional[str]:
@@ -122,13 +126,16 @@ def pick_and_pop_song(songs, weights) -> Optional[str]:
         next_song = random.choices(songs, weights=weights, k=1).pop()
 
     options = ["[j] ja", "[n] nein", "[s] stop"]
-    decide_menu = TerminalMenu(options, title=f"{format_song_name(next_song)} spielen?")
+    print("")
+    decide_menu = TerminalMenu(options, title=f"\t{format_song_name(next_song)} spielen?")
     res = decide_menu.show()
     if res == 0:  # ja
+        print(f"\t {termcolor.colored('✓', color='cyan')}")
         os.system('zathura ' + next_song + '.pdf')
         pop_song(next_song, songs, weights)
         return next_song
     if res == 1:  # nein
+        print(f"\t {termcolor.colored('✗', color='red')}")
         return None
     raise KeyboardInterrupt
 

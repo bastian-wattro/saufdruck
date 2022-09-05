@@ -6,13 +6,24 @@ category = "main"
 optional = false
 python-versions = "~=3.5"
 
+[[package]]
+name = "termcolor"
+version = "1.1.0"
+description = "ANSII Color formatting for output in terminal."
+category = "main"
+optional = false
+python-versions = "*"
+
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "ab94325a0e5d58d69cb652fd3dc883d5bf377e4d50b1f73b57822ade0a36b0cd"
+content-hash = "c698cb13f805ca01a0c74dab21896d198b609f4ac03f82a709795f247acb0ef7"
 
 [metadata.files]
 simple-term-menu = [
     {file = "simple-term-menu-1.5.0.tar.gz", hash = "sha256:bd019c4e2e54ac9a6d1abef32910b45f72257519736497a5a7975aca3c406554"},
     {file = "simple_term_menu-1.5.0-py3-none-any.whl", hash = "sha256:3b8b1b155716c2490547836893ad480126cfc2bc84303eae5e22a7b65b746b40"},
+]
+termcolor = [
+    {file = "termcolor-1.1.0.tar.gz", hash = "sha256:1d6d69ce66211143803fbc56652b41d73b4a400a2891d7bf7a1cdf4c02de613b"},
 ]
