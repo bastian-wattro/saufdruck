@@ -114,14 +114,14 @@ def pick_and_pop_song(songs, weights) -> Optional[str]:
     else:
         next_song = random.choices(songs, weights=weights)[0]
 
-    options = ["ja", "nein", "stop"]
+    options = ["[j] ja", "[n] nein", "[s] stop"]
     decide_menu = TerminalMenu(options, title=f"{next_song} spielen?")
     res = decide_menu.show()
-    if options[res] == "ja":
+    if res == 0:  # ja
         os.system('zathura ' + next_song + '.pdf')
         pop_song(next_song, songs, weights)
         return next_song
-    if options[res] == "nein":
+    if res == 1:  # nein
         return None
     raise KeyboardInterrupt
 
