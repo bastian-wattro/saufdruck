@@ -108,14 +108,21 @@ def pop_song(item, population, weights):
     weights.pop(i)
 
 
+def format_song_name(next_song: str) -> str:
+    if '/' not in next_song:
+        return repr(next_song)
+    songbook, song = next_song.split('/')
+    return f"{song!r} ({songbook})"
+
+
 def pick_and_pop_song(songs, weights) -> Optional[str]:
     if all([w == 0 for w in weights]):
-        next_song = random.choices(songs)[0]
+        next_song = random.choice(songs)
     else:
-        next_song = random.choices(songs, weights=weights)[0]
+        next_song = random.choices(songs, weights=weights, k=1).pop()
 
     options = ["[j] ja", "[n] nein", "[s] stop"]
-    decide_menu = TerminalMenu(options, title=f"{next_song} spielen?")
+    decide_menu = TerminalMenu(options, title=f"{format_song_name(next_song)} spielen?")
     res = decide_menu.show()
     if res == 0:  # ja
         os.system('zathura ' + next_song + '.pdf')
