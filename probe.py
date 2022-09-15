@@ -147,7 +147,7 @@ def pick_and_pop_song(songs, weights) -> Optional[str]:
     else:
         next_song = random.choices(songs, weights=weights, k=1).pop()
 
-    options = ["[j] ja", "[n] nein", "[s] stop"]
+    options = ["[j] ja", "[n] nein", "[x] heute nicht mehr fragen", "[s] stop"]
     print("")
     decide_menu = TerminalMenu(options, title=f"\t{format_song_name(next_song)} spielen?")
     res = decide_menu.show()
@@ -158,6 +158,10 @@ def pick_and_pop_song(songs, weights) -> Optional[str]:
         return next_song
     if res == 1:  # nein
         print(f"\t {termcolor.colored('✗', color='red')}")
+        return None
+    if res == 2:  # heute nicht
+        print(f"\t {termcolor.colored('✗✗✗', color='red')}")
+        pop_song(next_song, songs, weights)
         return None
     raise KeyboardInterrupt
 
