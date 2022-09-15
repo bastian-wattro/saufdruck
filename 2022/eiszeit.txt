@@ -16,9 +16,9 @@ Intro: H-7 | G   | H-7 |  G | A5 | G | A5 | C
 {start_of_verse: V1.1}
 [H-7]_ Schnee schneeweiß und [G]_ eis-kalt
 ein [H-7]Engel auf dem Boden und ein [G]Zapfen im Mund
-[G]_ rote Ohren, Schnupfnase und [A5]klamme frierende Hände
-[G]_ wie du mich anlachtest bei der
-[A5]Schneeballschlacht sprach Bände
+[A5]_ rote Ohren, Schnupfnase und [G]klamme frierende Hände
+[A5]_ wie du mich anlachtest bei der
+[G]Schneeballschlacht sprach Bände
 {end_of_verse}
 
 {start_of_verse: V1.2}
@@ -27,9 +27,9 @@ wer [G]weiß dann noch was Winter ist
 [H-7]wieder zu heiß, heißt dass es
 [G]wieder nicht schneit sondern pisst.
 
-[G]_ der alte Schlitten im Keller steht [A5]immernoch da.
-[G]_ und Du kriegst nicht genug 
-von den Ge[A5]schichten wie es früher war
+[A5]_ der alte Schlitten im Keller steht [G]immernoch da.
+[A5]_ und Du kriegst nicht genug 
+von den Ge[G]schichten wie es früher war
 {end_of_verse}
 
 {c: Break - instr. setzen bei nächstem chrod ein}
@@ -59,9 +59,10 @@ Intro: H-7 | G   | H-7 |  G | A5 | G | A5 | C
 {start_of_verse: V2.1}
 [H-7]Wir sind hier und wir sind [G]laut!
 [H-7]Weil man uns verdammt noch mal [G]unsere Zukunft klaut!
-[G]_wir scheißen auf Wohlstand, 
-scheißen auf [A5]Überfluss und Konsum.
-[G]und ihr scheißt einfach auf alles und tut so als würdet ihr [A5]trotzdem was für uns tun.
+[A5]_wir scheißen auf Wohlstand, 
+scheißen auf [G]Überfluss und Konsum.
+[A5]und ihr scheißt einfach auf alles
+und tut so als würdet ihr [G]trotzdem noch was für uns tun.
 {end_of_verse}
 {start_of_verse: V2.2}
 seht ihr nicht die Signale, hört ihr noch immer nicht den Schuss?

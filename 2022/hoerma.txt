@@ -9,7 +9,7 @@
 (alles powerchords)
 Vers
 A | Eb | A | Ab |
-A | Eb | A | C	|
+A | Eb | A | C  |
 
 Bridge
 E | E  | E/F | E/F | (x?)
@@ -18,7 +18,7 @@ Fast ein Refrain
 E Eb | D Db | Emaj  | Emaj  |
 
 Refrain
-D  | Db	| D  | D   | (x?)
+D  | Db	| D | Db | D | Db | E | E |
 {end_of_tab}
 
 {start_of_verse:V1.1}
@@ -39,8 +39,9 @@ Vor den [E]Latz [E] - vor den [E/F]Latz. [E/F]
 Vor den [E]Latz [E] - vor den [E/F]Latz. [E/F]
 {end_of_verse}
 
+{c: (stopp auf letzten Latz)}
 {start_of_verse:feRef}
-Du hörst immer nur
+Bei dir gibts immer nur
 [E]guti [Eb]schnuti [D]highty-[Db]tighty gute [Emaj]Launemusik [Emaj]
 [E]schmusi [Eb]dusi [D]häppy-[Db]päppy gute [Emaj]Launemusik [Emaj]
 [E]fluffi [Eb]puffi [D]schnuffi [Db]knuffi gute [Emaj]Launemusik [Emaj]
@@ -55,16 +56,20 @@ ich [D]hab das ganz ganz [Db]laut gemacht / der [E]Sound ist fürchter[E]lich.
 {eoc}
 
 {start_of_verse:V2.1}
-[A]_ Wie gut das [Ab]schmeckt.
-Wie schön du bist
-Wie die Ohren bluten
-das ist einfach...
+[A]_ Wie gut das [Eb]schmeckt.
+[A]_ Wie schön du [Ab]bist
+[A]_ Wie die Ohren [Eb]bluten
+[A]_ das ist einfach [C]_
 {end_of_verse}
 {start_of_verse:V2.2}
-Hör ma wie das kantet
-wie das ächtzt und stöhnt
-wie du im Pogo schwitzt
-das ist einfach gold.
+[A]_ Hör ma wie das [Eb]kantet
+[A]_ wie das ächtzt und [Ab]stöhnt
+[A]_ wie du im Pogo [Eb]schwitzt
+[A]_ das ist einfach [C]gold.
+{end_of_verse}
+
+{start_of_verse:bridge}
+Das ist einfach [E]Gold…
 {end_of_verse}
 
 {c:feRef, Ref}

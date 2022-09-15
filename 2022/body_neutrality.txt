@@ -7,7 +7,7 @@ Riffrain: A  A Bb  Bb H C x
 Instr/Strophe: E F
 {eot}
 
-{c:Intro: Riffrain (x2)}
+{c:Intro: Riffrain (1 Takt ohne Schlagzeug, 3 Takte druff)}
 {start_of_verse: V1}
 [E]Du siehst aber gut aus, hast du [F]abgenommen?
 braun ge[E]brannt, so erhohlt und gut in [F]Form gekomm'
@@ -19,14 +19,14 @@ Neue [E]Schuhe, schickes Outfit nice [F]Farbe, cooler Haarschnitt.
 [A]_ [Bb]Scheiß doch auf mein [H]Aus[C]seh'n
 [A]_ ich [Bb]kann sowas nich [H]aus[C]steh'n
 [A]_ Nach [Bb]Body Posti[H]tivi[C]ty
-[A]_ will ich [Bb]Body [H]Neu[x]trality (x2)
+[A]_ will ich [Bb]Body [H]Neu[x]trality
 {comment: (Wiederholung Halftime)}
 Scheiß doch auf mein Ausseh'n
 ich kann sowas nich aussteh'n
 Statt "alle sind wir schön"
 will ich "wurschd wie wir aussehn"
 {eoc}
-{c: Riffrain}
+{c: Riffrain (x4, 16teln)}
 
 {start_of_verse: V2}
 Du siehst aber hübsch aus - was ne schöne Schleife
@@ -35,8 +35,7 @@ Siehst so nett aus und so brav wie Dornröschen im Schlaf
 __
 {end_of_verse}
 
-{c: Ref}
-{c: Riffrain}
+{c: Ref + Riffrain}
 
 {start_of_verse: V3}
 [E]Du siehst aber heiß aus - [F]das ist echt nicht schlecht
@@ -45,6 +44,5 @@ Mega [E]sexy und kein bisschen dick [F]
 Das ist [E]Liebe auf den ersten Blick [x]
 {end_of_verse}
 
-{c: Riffrain}
-{c: Riffrain}
+{c: Ref + Riffrain}
 
