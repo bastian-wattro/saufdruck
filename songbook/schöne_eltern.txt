@@ -1,0 +1,48 @@
+{pagetype: a4}
+
+{key: C}
+{no_grid}
+{title: Behind the Makeup}
+{sot}
+Ref/Intro
+| C  | D  | Eb | F  | (x2)
+Vers
+|C   |  G |    |C   |    |F   |
+|C G |C   |  G |C
+{eot}
+
+{start_of_verse: V1.1}
+Schöne [C]Eltern - wolln ein chices Häuschen [G]bau'n
+Schöne Eltern - tun lieber Kotzen als Ver[C]dau'n
+Schöne Eltern - brauchen [F]Fenster bis zum Bod'n
+Schöne [C]Eltern - ham [G]glatt rassierte [C]Hodn'n (x2)
+{end_of_verse}
+{start_of_verse: V1.2}
+… - Der [C]Junge wird mal [G]Arzt!
+… - warn im Schweizer Inter[C]nat
+… - fressen Spi[F]nat nur im Spagat 
+… - E[C]lektro[G]lasten[C]rad (x2)
+{end_of_verse}
+
+{soc}
+[C]Schööhöööhööhöö[D]hööhööhööhöö
+[Eb]hööhööhööne [F]Eltern ([F]EL[F]TERN!) (x4)
+{eoc}
+
+{start_of_verse: V2.1}
+… - mit Familien[G]mops
+… - kennen jeden Online[C]shop
+… - ham die [F]Kinder ab halb vier.
+… - ich wär so gern wie ihr!
+{end_of_verse}
+{c: V2.2 | Solo}
+
+{start_of_verse: Schunkel (6/8)}
+Behind the [C]make-up there're eyes full of [G]tears
+Behind the make-up there's a heart filled with [C]fears
+Behind the make-up; a lonely [F]soul
+Behind the [C]make-up you [G]feel like an empty [C]hole.
+Behind the [C]make-up you [G]feel like an empty [C]hole.
+{end_of_verse}
+{c: Ganztonrückung über A nach D zu Schala dann nochmal 4/4}
+

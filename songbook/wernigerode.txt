@@ -1,0 +1,64 @@
+{pagetype: a4}
+
+{key: H}
+{no_grid}
+{title: Wernigerode}
+
+{sot}
+Riff   	| H | D C  | (x4)
+Vers   	| H | G    | (x4)
+Bridge	| D | H    | (x4)
+Chrous 	| H | E F# | (x4)
+{eot}
+{c: Riff}
+{start_of_verse: V1}
+[H]_Ich hab mal wieder [G]schlechte Laune, 
+[H]_ wie das hier immer so [G]ist.
+[H]Guck aus dem Fenster - [G]tristes grau.
+Be[H]ton, Glas und [G]Stahl
+{end_of_verse}
+{start_of_verse: Bridge}
+hier gibt's [D]Baustellen [H]überall nur Baustellen
+[D]Baustellen, [H]nie wird was fertig.
+[D]Baustellen, [H]ich will mich nicht mehr aufn
+[D]Baustellen, [H]_
+{end_of_verse}
+
+{soc}
+[H]_ ich habe Bock auf [E]Wernige[F#]rode
+[H]Umzug nach [E]Wernige[F#]rode
+[H]raus aus der Stadt -  [E]Wernige[F#]rode
+[H]weg von hier;  [E]Wernige[F#]rode
+{eoc}
+
+{c: Riff}
+{start_of_verse:V2}
+[H]_ und wenn ich  morgens aus dem [G]Haus geh'
+[H]überall alles [G]glattpoliert
+[H]graue Fassaden der [G]Reihenhäuser mit
+[H]Spießerhecken in [G]Vorgärten.
+{end_of_verse}
+
+{start_of_verse: Bridge 2}
+Hier gibts [D]Spießer mit A[H]larmanlagen
+[D]Spießer - [H]mit ihren Autos
+[D]Spießer [H]mit ihren Dackeln
+[D]Spießer [H]
+{end_of_verse}
+
+{c: Chorus | Riff}
+
+{start_of_verse: V3 (low)}
+[H]_ jetzt bin ich endlich in [G]Wernige
+[H]_ ich habs wirklich [G]her geschafft
+[H]alle um mich rum [G]langweil'n sich zu Tode
+[H]_ dochmir geht es [G]richtig gut.
+{end_of_verse}
+{start_of_verse: Brdige 3}
+Hier gibts [D]Bäume - [H]richtig viele Bäume
+[D]Bäume - und [H]eine Kuh.
+[D]Bäume - [H]noch viel mehr Bäume
+[D]Bäume - ich sag euch, [H] das müsst ihr sehn!
+{end_of_verse}
+
+{c: Chorus x2}

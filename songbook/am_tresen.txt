@@ -1,0 +1,27 @@
+{pagetype: a4}
+{no_grid}
+{title:Am Tresen}
+{start_of_verse}
+[D-]Klumpfuﬂ Senkfuﬂ [C]Spreizfuﬂ Plattfuﬂ.
+Der [D-]Bauch ist viel zu [C]dick.
+das [D-]Shirt ist viel zu [C]oll.
+Die [D-]Hose ist zu [C]chic.
+{end_of_verse}
+
+{soc}
+doch in der [D/F#]Stammkneipen am [F]Tresen ist das 
+[E7]alles ganz [G]egal
+in Deiner [D]Stammkneipen am [F]Tresen bist du 
+[E7]einfach nur nor[G]mal.
+du bist nor[D]ma[F]ha[E7]ha[G]hal
+ganz nor[D]ma[F]ha[E7]ha[G]hal.
+{eoc}
+
+{start_of_verse: V2}
+Zu alt zu reich zu jung zu arm.
+die Haare zu viel Filz.
+der Dˆner nass und kalt.
+das Jucken kommt vom Pilz.
+{end_of_verse}
+
+{c: Ref | V1 | Ref}

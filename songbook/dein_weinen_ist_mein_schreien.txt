@@ -1,0 +1,37 @@
+{pagetype: a4}
+
+{no_grid}
+{title: Dein Weinen ist mein Schreien}
+{subtitle: Mein Schreien ist nur das Äquivalent zu deinen Tränen}
+{sot}
+Instrumental: Auf E
+Vers: einmal auf E, dann auf A/C
+Ref: klingend auf jeder Silbe: A C G E
+{eot}
+
+{c: Instrumental auf E}
+{start_of_verse: V1}
+[E | A/C]Es ist kein schöner Tag, alles ist zu viel;
+Gibt keinen der mich mag, fühl mich so instabil.
+{end_of_verse}
+
+{soc}
+[A]Du [C]weinst, [G]ich [E]schrei. (x4)
+{eoc}
+
+{c: Instrumental auf E}
+{start_of_verse: V2}
+Es ist kein schöner Tag, ich hab Angst aufzusteh'n;
+Gibt keinen der mich mag - nur noch  Leid zu sehn.
+{end_of_verse}
+
+{c: Ref + Solo auf E}
+{start_of_verse: V2}
+Es ist kein schöner Tag, alles ist verlor'n;
+Gibt keinen den ich mag - wie wird der nächste Morg'n.
+{end_of_verse}
+
+{c: Ref}
+{c: ruhiger Ref}
+[A]Du [C]schreist, [G]ich [E]wein. (x4)
+{c: Ref}

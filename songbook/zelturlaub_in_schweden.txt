@@ -1,0 +1,42 @@
+{pagetype: a4}
+
+{key: G}
+{no_grid}
+{title: Zelturlaub in Schweden}
+{sot}
+Vers:   D   G   C  A- (x4)	< 1. Git/Gesang Lagerfeuer
+Bridge: A-  E   E7 G  (x2)	< Schmalzig
+Ref:    A-  E   Emaj7 (x4)  	< 1,2,3,4 und punk
+{eot}
+
+{start_of_verse: V1}
+Beim [D]Zelturlaub in [G]Schweden in [C]einer Sommer[A-]nacht.
+Beim [D]Wandern in der [G]Uckermark hab [C]ich an dich ge[A-]dacht.
+Im [D]Restaurant in [G]Dehli im Ho[C]tel am Garda-[A-]See,
+wünsch [D]ich mir, das du [G]bei mir bleibst - alles [C]Andere tut [A-]weh; Ja
+{end_of_verse}
+
+{start_of_verse: Bridge}
+[A-]Stiche in mein [E]Herz
+die [E7]kann ich gut er[G]tragen
+Doch [A-]Stiche durch die [E]Haut
+hinter[E7]lassen bei mir [G]Narben
+{end_of_verse}
+
+{soc}
+{c: Gesangs-Noten auf Vokale: 4x c c c h gis a h}
+[A]Schatz du bist mir m[E]ein Au[E7]tan
+Oh, Schatz du bist mir mein Autan
+Ja, Schatz du bist mir mein Autan
+Mh, Schatz du bist mir mein Autan
+{eoc}
+
+
+{start_of_verse: V2}
+Nach [D]15 Jahren [G]Ehe bin ichs im [C]Winter auch mal [A-]Leid
+Doch [D]immer wenn der [G]Sommer kommt weiß [C]ich wir bleim zu [A-]Zweit.
+Nach [D]20 Jahren [G]Ehe bin ich es [C]jeden Winter [A-]Leid
+doch [D]immer wenn es [G]summt um uns weiß [C]ich uns bleibt noch [A-]Zeit.
+{end_of_verse}
+
+{c: Bridge | Ref Ref }

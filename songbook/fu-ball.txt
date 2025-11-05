@@ -1,0 +1,30 @@
+{pagetype: a4}
+{no_grid}
+{title:Fu-Ball}
+{start_of_tab}
+H°: H  F   H C# D
+Ref/Intro: Halftime (x4)
+Vers: zurückhaltend (x4)
+
+Bridge: C C H° H°
+{end_of_tab}
+{c: Intro (H°)}
+
+{start_of_verse: V1}
+Freitag abend; gleich gehts los
+Bier schon kalt und Kumpels da
+die Frau'n heut auch dabei
+aber maximal eine von drei
+{end_of_verse}
+
+{soc}
+{eoc}
+
+{start_of_verse: V2}
+{end_of_verse}
+
+{start_of_verse: Bridge}
+[C] Ja ich bin stolz auf mein [H°]Land
+[C] und auf Immanuel [H°]Kant
+{end_of_verse}
+

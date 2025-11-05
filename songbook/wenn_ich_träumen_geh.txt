@@ -1,0 +1,59 @@
+{pagetype: a4}
+
+{no_grid}
+{title:Wenn ich träumen geh'}
+
+{sot}
+Lick: Bb Bb Db Db Db Eb Bb Bb
+{eot}
+
+{start_of_verse:V1}
+[G]Wenn ich träumen geh dann [F]träume ich von Punk [Lick]
+Ich leg mich hin und ziehe blank
+ich träume von einer bess'ren Welt 
+und dass Donald Trump in eine Grupe fällt
+{end_of_verse}
+{c: Lick(x2)}
+
+{start_of_verse:V2}
+Wenn ich nüchtern schlafen geh zieh ich die Schuhe aus
+das verlangt man so - bei mir zu Haus
+dann träume ich: es gäb kein Zwang
+schnell die Augen zu, ich bin mit Frühstückmachen ran
+{end_of_verse}
+
+{soc}
+[Eb]Saufdruck wünscht gute [D-]Nacht
+[C-]Saufdruck hat uns Glück [Bb]gebracht
+Am [Eb]Himmel steht es sternen[D-]klar
+[C-]Saufdruck ist für alle [Bb]da.
+Lalelalelale luuuu(x4)
+{eoc}
+
+{start_of_verse:V3}
+Wenn ich schlafen geh, dann denke ich an dich
+ich verzehre mich nach dir wie nach dem Wasser sich der Fisch.
+Und dann ganz kurz vorm Einnicken,
+träum ich davon, dir einen Liebesbrief zu schicken.
+{end_of_verse}
+
+{start_of_verse:V4}
+Wenn ich schlafen geh hab ich oft Saufdruck
+ich stehe auf und gönn mir nochn Schluck
+von der klaren Gemüsebrühe.
+Bei diesem Reim, gab ich mir für die Kinder richtig Mühe.
+{end_of_verse}
+{c: Ref}
+{start_of_verse:V4}
+Wenn ich schlafen gehe, dann spielt die Band zum Tanz
+und das fordert manchmal meine Toleranz
+dann komm ich runter zum Feierabend bier
+dann versack ich im Krawumm und werd zum Partytier.
+
+wenn ich schlafen geh, dann träume ich von SAG ICH NICH
+ihr könnt mich alle mal, es geht nicht immer nur um mich
+frag doch mal den Daimlerchef, von was der Kerl so träumt
+und was er meint, wer die Welt nach ihm aufräumt.
+{end_of_verse}
+
+{c: Ref x2}

@@ -1,0 +1,52 @@
+{pagetype: a4}
+{no_grid}
+
+{title:Rakete}
+{c:Intro}
+{start_of_verse: V1}
+[C]
+Ich steh in meiner Tiefgarage,
+Das ist besser als jede Chefetage.
+Metallgeruch und Schweißgerät,
+alles wird poliert bis es glänzt wie ein Komet,
+[D]
+Schnell noch ein Diskettenlaufwerk
+Ne Stabilisierungsflosse und ein dickes Triebwerk
+Ganz unten noch nen Treibstofftank
+Ich liebe roten Lack denn der macht alles Blank
+{end_of_verse}
+
+{soc}
+Ra[C]kete / Trom[G]pete / [Eb]Dosen[D]bier / und [Bb]Ster[D]ne (x4)
+5-4-3-2-1
+{eoc}
+
+{c: Instr wie Strophe}
+{start_of_verse:V2}
+Auf [C]Wiedersehen ich sag Good Bye
+Macht euren scheiß alleine - ich bin frei!
+Ich spiel auf meiner Megarakete,
+und flieg mit meiner Hammertrompete
+In [D]Bademantel und Unterhemd,
+Passier ich Saturn am ersten Advent.
+Dosenbier ausreichend dabei,
+und jeden Tag gibts Astronautenbrei.
+{end_of_verse}
+{soc}
+Ra[C]kete / Trom[G]pete / [Eb]Dosen[D]bier / und [Bb]Ster[D]ne (x4)
+5-4-3-2-1
+{eoc}
+{start_of_verse: V3}
+Schwarz wie Kaffee ist der Raum,
+kein Zaun, kein Baum und kein Badeschaum
+Saufdrucksongs in Dauerschleife
+Rosa gelbe Kometenschweife
+Galaxien, Nebel und Staub fliegt vorbei
+Der Antrieb macht mich dauer High,
+Auf dem Klo verfass ich noch ein Gedicht,
+Dunker Tunnel helles Licht, letzte Grenze in Sicht!
+{end_of_verse}
+{soc}
+Ra[C]kete / Trom[G]pete / [Eb]Dosen[D]bier / und [Bb]Ster[D]ne (x4)
+5-4-3-2-1
+{eoc}

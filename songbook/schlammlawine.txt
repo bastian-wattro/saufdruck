@@ -1,0 +1,45 @@
+{pagetype: a4}
+{no_grid}
+
+{title: Schlammlawine (Das Problem)}
+{sot}
+Vers | G- D- | G- D- | G- D- | Eb Bb |
+	single notes auf der Gitarre richtig laut
+Ref  | G- D- | Eb Bb |
+mel    d d d d f - - d eb eb eb g g g g f f eb d
+{eot}
+
+{start_of_verse: Intro}
+{end_of_verse}
+
+
+{start_of_verse: V1}
+[G-]_ Eine braune Schlammla[D-]wine
+[G-]überschwemmt das [D-]ganze Land
+[G-]Sie schreiben ihre Maga[D-]zine
+[Eb]tote Menschen [Bb]liegen am Strand
+
+[G-]Während sie Partylieder [D-]grölen
+[G-]Von deren Inhalt mir das [D-]Kotzen kommt.
+[G-]Wie verächtlich kann man [D-]Menschen sehn?
+[Eb]Migration sei das [Bb]größte Problem
+{end_of_verse}
+
+{soc}
+[G-]Das Problem seid [D-]IHR!!!
+Die [Eb]Menschen sind unten und ihr [Bb]tretet noch drauf.
+[G-]Das Problem seid [D-]ihr!
+[Eb]Wiegelt die ein'n gegen die [Bb]anderen auf. (x2)
+{eoc}
+
+{start_of_verse: V1}
+[G-]_ Reden über [D-]Menschen 
+[G-]_als während sie nur [D-]Vieh.
+[G-]Träumen von engen [D-]Grenzen,
+[Eb]ich sag nie wieder, nie wieder, [Bb]NIE!
+
+[G-]_ Eine braune Schlammla[D-]wine
+[G-]überschwemmt das [D-]ganze Land
+[G-]Sie laden ihre Maga[D-]zine
+[Eb]tote Menschen [Bb]liegen am Strand
+{end_of_verse}

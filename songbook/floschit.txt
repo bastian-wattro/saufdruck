@@ -1,0 +1,62 @@
+{pagetype: a4}
+{key: C}
+{title:flosch it}
+
+{ci: Intro: Git soft}
+{start_of_tab}
+| C   | G   | C   | G   | 
+{end_of_tab}
+
+{start_of_verse: V1}
+In einer [C]Straße an der [G]Ecke, da 
+[C]ist ne kleine [G]Bar und das 
+[F]ist auch nicht weit [C]weg, deshalb ist 
+[C]Benno fast immer [G]da.  So 
+[C]sitzt er da am [G]Thresen, lässt die 
+[C]Welt vorüber [G]ziehn.  So isses 
+[F]immer schon ge[C]wesen, egal ob 
+[C]Botropp [G]oder [C]Wien.
+{comment: Bridge}
+[G]ooooooooooooooooooooh-oh-hey
+{end_of_verse}
+
+{start_of_chorus}
+Wenn es dir [C]gut geht, ja dann: [G]  flosch it!  
+Geht es dir [C]dreckig, scheiß drauf[G]; flosch it!
+und [F]gehts dir mal so la[C]la... [C]flosch it und es geht dir [G]wunderbar!
+
+Hast du mal [C]Stress mit den Nachbarn: [G]flosch it!  
+verpasst du [C]morgens deinen Bus, musst du [G]Fahrrad fahrn,
+komsst Du nach [F]Feierabend [C]heim: flosch it oder [G]lass es [C]sein.
+{end_of_chorus}
+
+{np}
+{start_of_verse: V2}
+[C]Benno kommt nach Hause und denkt:[G]   "flosch it", doch der 
+Kasten ist leer und die Kneipe hat frei. Im 
+Kühlschrank nur Sprudel und Eis, jetzt denkt 
+Benno: "wasn Scheiß!" Doch 
+[C]Benno denkt noch weiter, ruft die [G]Karla an und die
+Karla kommt vorbei und sie hat Wein dabei:
+Riesling, Eis und Sprudel, das gibt Schorle und viel Gejubel
+{end_of_verse}
+
+{c: Bridge - Chorus}
+{start_of_verse: V3}
+Am nächsten [C]Tag pennt Benno [G]bis um vier, er mert so-
+fort: "Dieses scheiß Murmeltier
+hat mir schon wieder in mein Maul gepisst."
+Diesen Geschmack hat er nicht vermisst.
+Beim [C]Zähneputzen [G]merkt er dann; auch der
+Magen fühlt sich seltsam an.
+Frühstück kannste voll vergessen. Ich glaub ein
+Bier wär angemessen.
+{end_of_verse}
+
+{c: Bridge - Chorus}
+{start_of_verse: Break}
+[F]Alkohol ist keine [C]Lösung, deshalb flosch dir mal n [G]Bier-nensaft.
+aber [F]ich hab einen [C]andren Geschmack, deshalb flosch ich mir n [G]Bier
+(oder vier)
+{end_of_verse}
+{c: Chorus x2}

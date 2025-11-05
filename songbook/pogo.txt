@@ -1,0 +1,65 @@
+{pagetype: a4}
+{no_grid}
+{key: A}
+{title:Pogo}
+
+{comment: Intro: Git,Bass,Keys,Drums}
+{start_of_tab}
+Vers:   | D   | A   | D   | A   | 
+        | G   | D   | D   | A   | (x2)
+Bridge: | H-  | F#- | H-  | F#- |
+        | G   | D   | G   | A   |
+Pre:    | D   | G A | (nur Kirmes-Orgel)
+Chorus: | D5  | F5G | 
+{end_of_tab}
+
+{start_of_verse: V1}
+Es [D]gibt auf dieser Welt die ver[A]schiedensten Tänze,
+ja da [D]klappern die Schuh und es [A]fliegen die Hände.
+[G]oftmals, da kommt es auf den [D]Ausdurck an
+und [D]ob man die ganzen vielen [A]Schritte kann.
+
+doch der [D]Pogotanz, ja der [A]Pogotanz,
+das ist [D]Rempeln mit ausgesprochner [A]Eleganz
+ich bin [G]sicher, dass Du das ohne Er[D]klärung kannst,
+egal ob [D]dünner Lauch oder [A]fetter Wanst.
+{end_of_verse}
+
+{start_of_verse: Bridge}
+Jetzt [H-]kommen wir zusammen und wir [F#-]bilden einen Kreis, 
+egal ob [H-]jung oder alt, egal ob [F#-]schwarz oder weiß.
+[G]Pogo ist für jeden was ob [D]Hinz oder Kunz, 
+durm holt mal [G]alle ganz tief Luft und dann [A]singt mit uns:
+{end_of_verse}
+{start_of_verse: PreChorus}
+[D]Ich tanz pogo - [G]yalla la [A]la la lala
+Ich tanz pogo - yalla la lala  (x2)
+{end_of_verse}
+
+{start_of_chorus}
+[D5]Pogo [F5]... [G]... (x4)
+[D5]an-statt kuscheln - [F5]PO[G]GO!
+neue Diskussionskultur - POGO!
+ich mach jetzt wieder Sport - POGO!
+und jetzt alle... - POGO!
+Geburts-ein-leitung - POGO!
+scheiß auf Yoga - POGO!
+scheiß auf Stress - POGO!
+und jetzt alle... - POGO!
+{end_of_chorus}
+
+{c: Instrumental Chorus}
+
+{start_of_verse:V2}
+[D]Carla sucht ihre Bri[A]lle
+Pierre Mi[D]chelle sucht seinen Ver[A]stand
+[G]Benno sucht seinen li[D]nken Schuh
+den hat [D]Jenny in der [A]Hand
+
+die [D]Stimmung die ist [A]Bombe
+das [D]Bier noch lang nicht [A]leer
+und so [G]lange dass so [D]ist
+muss eine [D]neue Runde [A]Pogo her [A]
+{end_of_verse}
+
+{c: Bridge | Pre | Chorus}

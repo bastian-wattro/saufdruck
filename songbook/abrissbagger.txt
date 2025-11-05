@@ -1,0 +1,39 @@
+{pagetype: a4}
+
+{key: C-}
+{no_grid}
+{title:Abrissbagger}
+{c: Intro: Wechselbass und Offbeats Keys}
+{sot}
+| C- | G | C- | G | F- | C- | G7 | C- G C- X |
+{eot}
+{c: V1}
+Ich [C-]steh mit meinem Abrissbagger [G]auf der Konversion
+Ich [C-]soll hier was zerstören, dafür [G]grieg ich meinen Lohn
+ich [F-]denke mir die ganze Zeit, das [C-]ist doch blanker Hohn,
+wa[G7]rum die schönen Häuschen, darin [C-]kann man [G]doch noch [C-]wohn'n!
+{c: Intro | V2}
+Mir [C-]kommt die GGH in Sinn, es [G]geht wohl um Gewinn (Gewinn!)
+die [C-]Marge muss 6-stellig sein, da [G]hauen sie gleich mal richtig rein
+Ich [F-]hab da echt kein Bock mehr drauf und [C-]steig aus meinem Bagger aus.
+Beim [G7]Heimgeh'n piss ich an das Haus [C-]_ vom Immo[X]bilien Kraus.
+{c: Ref1}
+{soc}
+(3/4-Takt)
+[C- | C- | F- | G (2x)]
+[C-]Abriss[C-]bagger [F-]_ [G]_ (3x) 
+[C-]Abriss[C-]baggero[F-]vitsch [G]_[C]_
+{eoc}
+
+{c: Intro | V3}
+[C-]Abends bin ich auf ner Party [G]alles Kumpels nur vom Bau
+es [C-]gibt wie immer Bier vom Fass doch [G]leider keine Frau'n
+Das [F-]ist uns aber scheißegal, wir [C-]ham halt einfach keine Wahl.
+wir [G7]haun die Tittenwitze raus und [C-]rasten [G]völlig [C]aus.
+
+{c: Intro | V4}
+[C-]In der Nacht zur späten Stund' wir [G]gehn grad in die zehnte Rund'
+die [C-]Stimmung ist schon am Zenit bei [G]unsrem geilen Abrisshit.
+[F-]Ronny packt den Bello aus, es [C-]spenden alle hart Applaus,
+die [G7]Abrissgene kommen raus und [C-]Brei wird [G]aus dem [C]Haus.
+{c: Ref  | Intro ( + lalala) schneller werden)

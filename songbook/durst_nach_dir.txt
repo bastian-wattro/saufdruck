@@ -1,0 +1,36 @@
+{pagetype: a4}
+{key: C-}
+{title:Durst nach Dir}
+
+{sot}
+Vers | F- | F- | C- | C- | 
+
+Ref  | G# | Bb | G- | C- | 
+     | G# | Bb | C- | C- |
+{eot}
+
+{start_of_verse: V1}
+Ich will ein Lied schreiben, doch mir fällt nix ein.
+Soll ich es machen, oder lass ichs besser sein?
+Aber ohne Inhalt ist es schwer - scheiß egal, ein Thema muss her
+Also Schreib ich über das, woran ich eh denken muss.
+{end_of_verse}
+
+{soc}
+Ich habe Durst nach dir. Ich verzeh mich nach dir.
+Ich habe Durst nach dir. Ich will dich jetzt und hier.
+{eoc}
+
+{start_of_verse: V2}
+Ich denk an deinen Körper und wie ich ihn anfass'.
+Wie ich dich genieße mich ganz auf dich einlass'
+wie du riechst und dich anfühlst auf meiner Zunge und meiner Haut
+Wie du ausschaust - Du bist gut gebaut.
+{end_of_verse}
+
+{c: Ref | DUB VERS}
+
+{soc}
+Ich habe Durst nach dir. Ich verzeh mich nach dir.
+Ich habe Durst nach dir. Ich will jetzt ein Bier.
+{eoc}

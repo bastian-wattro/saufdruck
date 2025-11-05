@@ -1,0 +1,47 @@
+{pagetype: a4}
+{no_grid}
+
+{key: C}
+{title:Beziehungen}
+
+{start_of_tab}
+mel 1
+a a agf xx xx g g g h h a a x x
+mel 2
+a  aahc xx xx ddddc h   a x x
+mel 1*
+a a agf xx xx g g g a a x x x x
+
+
+Instrumental: 1 1 2 1* über Vers chords
+
+{end_of_tab}
+
+{start_of_commend}
+Vers: (erst orgel bass, dann mit ebass) A- A-  F  G
+Ref:  F  G   A- A-
+{end_of_commend}
+
+{c: Intro: Instrumental}
+
+{start_of_verse: V1}
+Du schreist mich [A]an ich sei so [F]unreflek[G]tiert.
+Ich schei dich [A]an    weil mich das [F]garnicht intress[G]iert 
+Du schreist mich [A]an ich schrei dich an 
+Du schreist mich [A]an ich schrei dich an 
+Du schreist mich [F]an ich schrei dich [G]an 
+{end_of_verse}
+
+{start_of_chorus}
+Be[F]ziehungen sind [G]schwierig und das [A-]liegt nicht nur an mir.
+Be[F]ziehungen sind [G]schwierig mit [A-]dir. (x2)
+{end_of_chorus}
+
+{c: Instrumental}
+{start_of_verse: V2}
+{end_of_verse}
+
+{c: Chrous}
+
+{start_of_verse: Bridge}
+{end_of_verse}

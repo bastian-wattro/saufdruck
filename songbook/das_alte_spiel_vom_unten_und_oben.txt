@@ -1,0 +1,45 @@
+{pagetype: a4}
+{no_grid}
+
+{title:Das alte Spiel vom Unten und Oben (Unten)}
+
+{start_of_tab}
+Vers
+G G AbAb x | G G FF   x |
+
+Chrous: Quint zum Vers 
+Intro wie Chorus
+
+immer das Letzte weg
+{end_of_tab}
+
+{start_of_commend}
+{end_of_commend}
+
+{start_of_verse: V1-1}
+[G]Unten wird geputzt [Ab] [G]oben wird benutzt [F]
+Unten wird gegrillt oben wird gechillt
+unten wird gehechelt oben wird gescheffelt
+unten voller Dreck oben wie geleckt
+{end_of_verse}
+
+{start_of_verse: V1-2}
+unten gibt es Liebe oben nur Geschiebe
+Unten Groschen suchen oben den ganzen Kuchen
+unten Fluppen stopfen oben Schultern klopfen
+unten kannste Friern oben abkassiern
+{end_of_verse}
+{start_of_verse: Bridge}
+{c: 6x Bb als Viertel}
+{end_of_verse}
+ 
+{start_of_chorus}
+[D]Das alte Spiel vom [Ab]unten und oben [D] unten und [C-]oben
+[D]Das alte Spiel vom [Ab]unten und oben 
+[D-]Porsche gefahrn oder  [C-]Fahrrad geschoben
+
+[D]Das alte Spiel vom [Ab]unten und oben [D] unten und [C-]oben
+[D]Das alte Spiel vom [Ab]unten und oben 
+Aufm [D-]Teppich gebliben oder [C-]voll abgehoben
+{end_of_chorus}
+

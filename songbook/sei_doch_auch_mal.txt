@@ -1,0 +1,62 @@
+{pagetype: a4}
+
+{key: C}
+{no_grid}
+{title:Sei doch auch mal scheiße}
+
+{sot}
+Riff: 
+   | H-  						 H-						| H- 							Bb- 					|
+A: |2---2---x-x-x-x-'2---2---x-x-x|2---2---x-x-x-x-'1----1----1---|
+
+Vers:
+3x Riff, dann | H- D | G C |
+
+Ref
+| D  G  | D  A  |
+| D  G  | Bb C  | (x2)
+
+Mittelteil
+| G  G'Bb C |
+| X  G'Bb C |
+
+Ich-teil
+| C  | C  | 
+| Bb | Bb | (x2)
+{eot}
+
+{c: Intro: 4xRiff Bass | ab 3. mal Gitarren Chords | Bb- kurz}
+{c:Vers I}
+Du bis immer [H-]nüchtern,[H-]_ [H-]_ du lebst ve[Bb-]gan.
+Du hilfst [H-]Kröten über die [H-]Straße und hast [H-]Spaß da[Bb-]ran.
+Du bist die [H-]Inkarnation des [H-]Guten. Du bist [H-]klug du hast [Bb-]Charme.
+Wenn du [H-]weg fährst fährst du [H-]Fahrrad nein du [H-]fliegst nicht, du fährst [Bb-]Bahn.
+
+{soc}
+ey - [D]Sei doch auch mal [G]scheiße, [D]hab doch auch mal [A]Wut.
+[D]Rülps mal nach dem [G]Essen, komm ich [Bb]sag dir, das tut [C]gut.
+Sag mal "[D]Fick dich doch ins [G]Knie" oder "[D]Nee ich hab kein [A]Bock."
+[D]_ Mach heut mal [G]blau und dann [Bb]ziehen wir ge[C]meinsam um den
+[H-]Block.
+{eoc}
+
+{c:4x Riff | V2}
+Du hälst große [H-]Reden [H-]_ über[H-]_ ne bessre [Bb-]Welt,
+über [H-]Klimawandel [H-]Liebe und was  [H-]uns zusammen [Bb-]hält.
+ich hör dir [H-]zu [H-]_ [H-]_ ich find das [Bb-]stark.
+Du lässt nie [H-]locker [H-]_ das [H-]is was ich an dir [Bb-]mag.
+
+Aber...
+{c:Ref | 4x Mittelteil | Ich teil}
+[C]Seit ich dich kenn, trink ich öfter auch mal Saft, 
+helf ner [Bb]alten Dame über die Straße, die das selbst nicht mehr schafft.
+Mein [C]eines Shirt hat sogar n Ökoettikett
+ich würd [Bb]gern mal mit dir knutschen, doch du findest mich nur nett
+
+komm...
+{c: Ref | Ref instrumental | Ref mit alt Ende:}
+[D]_ Mach heut mal [G]blau und dann 
+[Bb]ziehen wir [Bb] _
+ge[C]meinsam um den [D]Block
+{c: 1x Riff}
+

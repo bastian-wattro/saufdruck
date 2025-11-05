@@ -1,0 +1,65 @@
+{pagetype: a4}
+{no_grid}
+
+{title:Riesenpenis}
+
+{start_of_tab}
+Intro: Bass (x1) alle außer drums (x1) 
+Erster Teil erste Strophe ohne Schlagzeug (und weniger Instrumente)
+Vers: 
+|C   C   |G  G  G |(x4) <- auch das intro
+|A-  A-  |E  E  E |(x4)
+
+Pre: Punk Cluster von C ab
+
+(zwei mal)
+Ref: |D D  C|C#  G G# | (x3)
+     |D D   |         | 
+{end_of_tab}
+
+{start_of_verse: V1}
+[C]Ich bin ein [G]toller Mensch
+Deine Liebe gibt mir Macht
+Drum is es auch Ok
+Tut es dir auch mal weh.
+
+Provokation im Station 
+Ohnmacht und Kunst-Nacht
+Baden In der Menschenmenge
+Sahmenstränge in großem Gehänge
+{end_of_verse}
+{start_of_verse:Pre}
+4x [C Cluster]Schluchzendes Teeny-Girl
+{end_of_verse}
+
+
+{soc}
+[D]Keiner braucht [C]…(x3)
+[D]Keiner braucht [X] deinen Riesenpenis(x2)
+{eoc}
+
+{start_of_verse: V2}
+{c: C teil wie oben}
+[A-]Dicke Firma und Wohlstand für alle
+Kostenoptimiertes Expandiern
+Investiern und Menschenrechte 
+_ Ignoriern
+{end_of_verse}
+{start_of_verse:Pre}
+4x [C Cluster]Mama in Zwangsarbeit
+{end_of_verse}
+
+{c: Refrain}
+
+{start_of_verse: V3}
+{c: C teil wie oben}
+Für die Liebe zum Vaterland
+Durch meine Hand gegen die Wand.
+Treueschwur und Kampfbereit
+mit dickem Panzer übers Mädchenkleid.
+{end_of_verse}
+{start_of_verse:Pre}
+4x [C Cluster]Heulender Soldaten-Dad
+{end_of_verse}
+
+{c: Refrain}

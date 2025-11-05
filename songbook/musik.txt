@@ -1,0 +1,28 @@
+{pagetype: a4}
+{no_grid}
+
+{key: A-}
+{title:Musik}
+
+{start_of_tab}
+Er macht musik
+|b s b s|b s bss |
+{end_of_tab}
+
+{c: Einsatz je nach Ansage}
+
+{c: SIE macht Musik}
+{start_of_tab}
+Orgel
+C	| C	| Bb	| Bb	|
+F	| F	| E7	| E7----|
+{end_of_tab}
+
+{c: Refrain}
+{start_of_tab}
+a   a  f      e  f  e
+e   e  a      		(x3)
+  
+a   a  f      e  f  e
+e .           g# g# g# g#
+{end_of_tab}

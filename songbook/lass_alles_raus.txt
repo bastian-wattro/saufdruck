@@ -1,0 +1,61 @@
+{pagetype: a4}
+
+{no_grid}
+{title: Lass alles raus}
+
+{start_of_verse: V1.1}
+[C]Der Nachbar sagt wir [E-]sind zu laut,
+[F]deshalb wir jetzt gleich [C]abgebaut,
+[D-]doch bevor wir [C]von euch gehen
+[F]wollen wir euch noch einmal [G]Schwitzensehn.
+{end_of_verse}
+{comment: Drum Interlude - 1 2 3 4}
+{start_of_verse: V1.2}
+Such in euch die letzte Kraft,
+Spüre noch mal den Lebenssaft
+Holt noch einmal alles raus
+Egal ob nüchtern oder im Vollrausch,
+{end_of_verse}
+{start_of_verse: V1.3}
+Riecht noch mal an eurem Nebenmann
+zeigt noch mal wie schön es sein kann,
+Tanzen bis zum Morgengraun
+Die Achseln schmiern und den Mund voll Schaum
+{end_of_verse}
+{start_of_chorus}
+Lasst alles [C-]raaaaaaauus
+Last alles [Ab]raus last alles [F-]raus
+Lasst alles [C-]raaaaauuuuuss
+Last alles [Ab]raus
+Und jetzt [G]gehn wir nach _
+x2
+{end_of_chorus}
+{comment: Sexy Sax}
+
+{start_of_verse: V2.1}
+Danke an die Menschen hinter der Bar
+Ihr war mal wieder wunderbar,
+Licht und Ton warn erste Sahne
+Hat die Security noch alle Organe?
+{end_of_verse}
+{start_of_verse: V2.2}
+Doch eins das will ich euch noch fragen,
+Kann mich vieleicht jemand heimtragen?
+Stehn das das fällt mir riechlich schwer,
+Laufen kann ich gar nicht mehr.
+{end_of_verse}
+
+{comment: Ref & Sexy Sax}
+{comment: DANCE - bis Drum Q.}
+
+{start_of_verse: V3.1}
+{comment: ruhig: Orgel + Gesang}
+Mit euch wars wirklich underschön
+Doch jetzt ist leider kurz nach Zehn.
+Wir danken euch für eure Konstitution
+Wir sehn uns morgen bei der Revolution
+{end_of_verse}
+
+{comment: Ref & Sexy Sax}
+{comment: DANCE | mitgröhl | DANCE }
+

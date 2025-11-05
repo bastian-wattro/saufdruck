@@ -1,0 +1,36 @@
+{pagetype: a4}
+{no_grid}
+{title:Nüsse}
+{sot}
+intro und vers und strophe:
+e e e 
+d db g
+fff 
+bridge:
+a 
+{eot}
+
+{start_of_verse: V1}
+wahlnüsse | scheißegalnüsse | radikal-nüsse | banal-nüsse
+meine nüsse  | deine nüsse | an-der-Leine-nüsse  | schweine nüsse	
+Kampf-nüsse  | heisser-Dampf-nüsse | Kotz-nüsse  | Motz-nüsse
+{end_of_verse}
+{start_of_verse: Bridge}
+schlau-nüsse dumm-nüsse | hau-nüsse stumm-nüsse
+Wut-nüsse gut-nüsse | schlecht-nüsse echt-nüsse
+sag-ich-ja-nüsse | und tatütata-nüsse
+Mandelnuss...  Zungenkuss!
+{end_of_verse}
+{soc}
+Nüsse ... Nüsse ...  ihr geht mir auf die Nüsse
+{eoc}
+{c:Intro}
+{start_of_verse: V2}
+hohl-nüsse  | Idol-nüsse
+schrei-nüsse  | immer-dabei-nüsse
+aggressive nüsse  | invasive Nüsse
+depressive nüsse  | zu massive Nüsse
+intolerante nüsse  | Adjutanten nüsse
+Gunst-der-Stunde-nüsse  | ich-geh-daran-zu-Grunde-Nüsse
+{end_of_verse}
+{c: Bridge | Ref | Solo Vers | Bridge | Ref}

@@ -1,0 +1,48 @@
+{pagetype: a4}
+{no_grid}
+{title:Lauter}
+
+{comment: Intro: alle A}
+{sot}
+Rythmus: | x - - x - - x - | 
+
+| A- | A- | A-/F | A-/F | 
+| A-/D | A-/D | A-/E | A-/E |
+| E |
+{eot}
+
+{c:V1}
+[A-]Früher war alles besser / [A-/F]Das wird man wohl noch sagen dürfen!
+[A-/D]Wer kümmert sich jetzt um den kleinen Mann? /[A-/E]Komm du erst mal in mein Alter
+{c:V2}
+Jeder hat seine Stärke / da war viel Gutes dabei 
+Dein Bedürfnis ist mir wichtig / Bildet einen Stuhkreis!
+
+[E]
+
+{soc}
+Da piss ich einfach [C]lauter,
+ich will das alles garnicht [Bb]hörn (lalalala)
+Das Geräusch ist mir ver[C]trauter
+und geht mir nicht so auf den [Bb]Sack (lalalalalalalalalaaaa) (x2)
+{eoc}
+
+{c:V3}
+Eigentum ist Diebstahl / es geht immer nur ums Geld
+Nie wieder Deutschland / und deshalb ruf ich auf zum Wahlboykott
+
+{c:V4}
+Ich hab ja nix gegen Ausländer aber... / Deutschland den Deutschen
+Deutsche; kauft deutsche Bananen! / Wir brauchen eine Festung Europa.
+
+{c: Ref | Ref + Git solo (x2) | Ref | Bridge: }
+[G-]
+Das sind doch alls nur Corsagen 
+[D-] 
+Wir brauchen keine Phrasen
+[G-]
+Auf dem Land in Metropolen
+[Ð]
+Wir brauchen keinen Parolen
+
+{c: Ref }

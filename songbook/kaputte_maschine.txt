@@ -1,0 +1,59 @@
+{pagetype: a4}
+
+{key: ?}
+{no_grid}
+{title: Kaputte Maschine}
+
+{sot}
+Intro/Vers
+G5 (3 2 5 3)
+Db E Bb
+(hoch tief hoch)
+
+Bridge
+| Db | Db | D  | Ab |
+| E  | (x times)
+
+Ref
+| G  | G  | G  | G Db E Bb | 
+{eot}
+
+{c: Intro (x2)}
+{start_of_verse: V1}
+[G]_ wir haben gu-ten plan gehabt
+da fanden’ gu-te Gespräche statt
+es wurd [G]geschraubt, justiert - geölt, geschmiert
+das war der Anfang – der Maschine
+{end_of_verse}
+
+{c: Intro}
+{start_of_verse: V2}
+und dann zog [G]Jahr um Jahr um Jahr ins Land
+die ersten Roststellen, Kurzschluss - Kabelbrand
+dann wurd geklebt, geflickt, gepatzt, gepfuscht,
+das war der Anfang – vom Ende der Maschine
+{end_of_verse}
+
+{start_of_verse: Bridge}
+[Db]_ beim Reparieren wurde [Db]falsch gemessen
+und wir [D]haben schon lange den Pin [Ab]_ für den Reset vergessen
+[E]_ und der Maschinist ist mit Alk auf [Ab]Mallorca - schallalalala
+schallalalala schalalalalalalalalalalaaaaaaa
+{end_of_verse}
+
+{soc}
+[X]nichts geht mehr, alles steht still 
+das ist [G]eine kaputte Maschine! [G Db E Bb]_
+[G]ob da nochmal wer was machen will? - das ist…
+[X]nichts geht mehr, alles steht still  - das ist…
+ob man da nochmal was machen will?  - das ist…
+{eoc}
+
+{c: Intro}
+{start_of_verse: V3}
+Und als die Welt in Schutt und Asche lag
+da schrie man laut nach dem Raketenstart
+Neue Ideen - so könnt es gehn - ihr werdet sehn
+alles wird besser mit der nächsten Maschine
+{end_of_verse}
+{c: Ref | Bridge | Ref | ra-ta-tat}

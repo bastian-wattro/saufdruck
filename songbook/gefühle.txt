@@ -1,0 +1,27 @@
+{pagetype: a4}
+{no_grid}
+{title:Gefühle}
+{start_of_tab}
+Riff: E | 0 0 0 0 3 0 0 3 0 3 0 3 | (x3)
+      E | 0 0 0 0 3 0 0 0 0 6     | 
+Git:  E C E C
+
+Bridge Bass: C D (x4)
+Git: C D E F# G A H C
+
+Ref: A A A - - 
+Git: A A A F E 
+{end_of_tab}
+{c: Riff Bass low | Git nur 1 | 2x power }
+{start_of_verse: V1.1}
+[E]_ Ich hol den [C]Rückenkratzer
+[E]_ den guten [C]den aus Holz
+[E]_ ja dieser [C]Rückenkratzer
+[E]_ der ist mein [C7]Stolz
+{end_of_verse}
+{c: Riff 1x power}
+
+{start_of_verse: V1.2}
+TODO
+{end_of_verse}
+{c: Bridge, Ref, V2.1, Riff, V2.2, Bridge, Ref}

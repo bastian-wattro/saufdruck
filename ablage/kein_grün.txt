@@ -1,0 +1,49 @@
+{pagetype: a4}
+
+{key: C}
+{no_grid}
+{title: Kein Grün}
+
+{sot}
+Für Ukulele: Island strum
+Für Saufdruck: tbd
+{eot}
+
+{start_of_verse: V1}
+Wir [C]gehen mal wieder [F]Einkaufen, mein [C]Papa und [G]ich.
+Wir [C]kaufen ein auch [F]Süßigkeiten, [C]leider nicht [G]nur für mich.
+Auf der [C]Plastikverpackung [F]steht: [C]100% re[G]cycelt.
+Ob [C]das wirklich was [F]bringt?
+{hits} [F]Meerestiere [G]sind von Müll um[C]ringt
+{end_of_verse}
+
+{soc}
+Die [F]Pole schmelzen und Eisbären sterben.
+Wir [C]lassen uns die Haare färben.
+Wenn [G]wir nichts tun, sondern einfach nur warten,
+{hits} haben [F]wir [G]bald kein [C]grün mehr im Garten.
+{eoc}
+
+{start_of_verse: V2}
+Die Über[C]fischung nimmt stark [F]zu,
+wir [C]denken nur: "lass [G]mich in Ruh'"
+Die Re[C]gierung hat Angst nicht ge[F]mocht zu werden,
+dafür [C]sollen wohl eher die [G]Meere sterben.
+Im [C]Sommer wird es nun [F]immer heißer,
+{hits} wir [F]hängen am Kon[G]sum wie [C]Pappmasché am Kleister.
+{end_of_verse}
+
+{c: Refrain}
+
+{start_of_verse: Bridge}
+Es [A-]wird nicht kommen eine [G]gute Fee,
+und es [A-]gibt auch noch [C]keinen Planet B.
+Drumm [F]lasst uns gegen den [G]Klimawandel kämpfen,
+{hits} dann [F]können wir den [G]Garten ohne [C]grün vergessen.
+{end_of_verse}
+{c: Refrain}
+{start_of_verse: Outro}
+Kein [C]grün mehr im Garten, kein [F]grün mehr im Garten
+Wenn [G]wir nichts tun, sondern einfach nur warten,
+{hits} Haben [F]wir [G]bald kein [C]Grün mehr im Garten
+{end_of_verse}

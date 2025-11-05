@@ -1,0 +1,41 @@
+{pagetype: a4}
+{no_grid}
+
+{key: G}
+{title:In meiner Hand}
+
+{comment: Intro: Git Offbeat}
+{start_of_tab}
+| D | D | C | C | D | D | G | G |
+{end_of_tab}
+
+{soc}
+Hab ich ein [D]Bier in meiner [D]Hand, dann  bin ich [C]glücklich. [C]
+Hab ich ein [D]Bier in meiner [D]Hand, dann gehts mir [G]gut. [G]
+Egal ob [E-]Regensturm, Ge[E-]witter oder [B-]Blitzlich; [B-]
+hab ich ein [C]Bier in meiner [D7]Hand, dann gehts mir [G]gut! [G]
+(x2)
+{eoc}
+
+{c: V1}
+[E-]Manche Menschen haben echt Pro[B-]bleme,
+[E-]Pickel auf'm Arsch oder Ek[D]zeme.
+Die [C]einen ham zu [D]wenig und die [E-]anderen zu [B-]viel:
+die [C]einen spühl'n mit Spühli und die [D]anderen mit Pril.
+
+{c: Pril Solo - Intro - Chorus}
+
+{c: V2}
+[E-]Manche Menschen haben echt Pro[B-]bleme,
+braune [E-]Lungenflügel, Ideen oder [D]Zähne.
+Die [C]einen ham zu [D]wenig und die [E-]anderen zu [B-]viel:
+die [C]einen sägen mit ner Säge und die [D]anderen mit STIHL.
+
+{c: STIHL Solo - Intro - Chorus}
+
+{c: V3}
+[E-]Manche Menschen haben echt Pro[B-]leme,
+falsche Staats[E-]zugehörigkeiten oder [D]Gene
+Die [C]einen ham ne [D]Muddi und die [E-]ander'n nen Pa[B-]pa,
+die [C]einen zischen Dose und die [D]andern zapfen klar.
+{c: Zapf Solo - Intro - Chorus (hab ich Pastis, hab ich n Joint...)}

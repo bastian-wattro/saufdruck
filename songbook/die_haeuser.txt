@@ -1,0 +1,72 @@
+{no_grid}
+{title: Die Häuser}
+{subtitle: mehr unter nussgewuerz.de}
+
+{start_of_tab}
+{end_of_tab}
+
+{sot}
+Strophe: A- E- (x8)  |  Bridge:  F E-  E  A- F E-  E  E7  |  Ref:  E7  A-
+
+Tipp: Statt F kann man auch D- spielen, statt E7, E und andersrum
+
+Basslinie Refrain: E | 0    5 7 8 7 5 0   | 0 3 5 7 5 3 5 |
+{eot}
+
+{start_of_verse: V1}
+Wir [A-]hab´n keine Kryptos, keinen Bausparvertrag
+-keinen [E-]Bausparvertrag -wer braucht nen Bausparvertrag?
+wir ham ´ne [A-]Feuerstelle und ´nen Proberaum am Start
+- nen [E-]Proberaum am Start - geilen Scheiß parat.
+
+Damit [A-]lebt es sich jetzt so herrlich angstbefreit
+- herrlich [E-]angstbefreit - wer ist schon Angstbefreit?
+vor [A-]Eigenbedarf und vor Vermieterstreit
+- ja vor Ver[E-]mieterstreit - wir ham kein Bock auf Streit
+{end_of_verse}
+
+{start_of_verse: Bridge}
+Doch auch [F]wir können kein Richtiges im [E-]Flaschen bieten,
+n erster [E]Schritt; stoppt die Profite [A-]mit den Mieten.
+[F]Sagt es allen Freunden und Ver[E-]wandten:
+kauft und [E]klaut die Häuser weg den Speku[E7]lanten.
+{end_of_verse}
+
+{soc}
+Die Häuser denen die drin [E7]wohn'. 
+Die Häuser denen die drin [A-]wohn'.  (x4)
+{eoc}
+
+{start_of_verse: V2}
+Sieben [A-]Menschen müsst ihr sein und ihr gründet nen Verein
+- ja ihr [E-]gründet nen Verein; einen Hausverein
+damit [A-]seid ihr nicht allein‘ schaut ins Handbuch rein
+schaut' ins [E-]Handbuch rein - ins schöne Handbuch rein
+
+Di[A-]rektkredite werben, _ ich hab hier 'n Vertrag!
+willst [E-]Du nicht den Vertrag? unterschreib doch den Vertrag!
+unser [A-]Wohnblock ist ein Anarcho Syndikat
+- ein [E-]Anarcho Syndikat - ein Hoch aufs Syndikat
+{end_of_verse}
+
+{c: Bridge & Refrain }
+
+{start_of_verse: V2}
+Auch [A-]ihr braucht keine Kryptos, keinen Bausparvertrag
+-keinen [E-]Bausparvertrag - echt kein Bausparvertrag!
+Dafür einen [A-]Konsens _ zum Bodenbelag
+- zum [E-]Bodenbelag - auch ich will Bodenbelag
+
+Und [A-]sicher gibts Bewohnys, die können sich nicht leiden
+- die [E-]können sich nicht leiden - Jule kann den Kai nicht leiden.
+[A-]Hol mal bitte wer _ n Bierchen für die Beiden
+- ein [E-]Bierchen für die Beiden - Bier könn'n beide leiden
+{end_of_verse}
+
+{c: Bridge & Refrain }
+
+{start_of_verse: Outro}
+Auch [F]wir können kein Richtiges im [C]Falschen bieten.
+Nur [E]billiges Bier und [A-]billige Mieten.
+{end_of_verse}
+
