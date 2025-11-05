@@ -1,7 +1,0 @@
-{pagetype: a4}
-
-{key: E}
-{no_grid}
-{title: Kaputte Maschine}
-
-
