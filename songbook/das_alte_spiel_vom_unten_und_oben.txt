@@ -4,17 +4,11 @@
 {title:Das alte Spiel vom Unten und Oben (Unten)}
 
 {start_of_tab}
-Vers
-G G AbAb x | G G FF   x |
-
-Chrous: Quint zum Vers 
-Intro wie Chorus
-
+Vers: G G AbAb x | G G FF x |
+Chrous: Quint zum Vers und erst viertel dann achtel
+Instr: wie Chorus nur doppelte Geschwindigkeit
 immer das Letzte weg
 {end_of_tab}
-
-{start_of_commend}
-{end_of_commend}
 
 {start_of_verse: V1-1}
 [G]Unten wird geputzt [Ab] [G]oben wird benutzt [F]
@@ -30,16 +24,16 @@ unten Fluppen stopfen oben Schultern klopfen
 unten kannste Friern oben abkassiern
 {end_of_verse}
 {start_of_verse: Bridge}
-{c: 6x Bb als Viertel}
+{c: 7x Bb als Viertel}
 {end_of_verse}
  
 {start_of_chorus}
 [D]Das alte Spiel vom [Ab]unten und oben [D] unten und [C-]oben
 [D]Das alte Spiel vom [Ab]unten und oben 
-[D-]Porsche gefahrn oder  [C-]Fahrrad geschoben
+[x]Porsche gefahrn oder  [x]Fahrrad geschoben
 
 [D]Das alte Spiel vom [Ab]unten und oben [D] unten und [C-]oben
 [D]Das alte Spiel vom [Ab]unten und oben 
-Aufm [D-]Teppich gebliben oder [C-]voll abgehoben
+Aufm [x]Teppich gebliben oder [x]voll abgehoben
 {end_of_chorus}
 

@@ -3,9 +3,10 @@
 
 {title: Schlammlawine (Das Problem)}
 {sot}
-Vers | G- D- | G- D- | G- D- | Eb Bb |
+Vers | E- H- | E- H- | E- H- | C G |
 	single notes auf der Gitarre richtig laut
-Ref  | G- D- | Eb Bb |
+Ref  | E- H- | C G |
+--- TODO: ab hier noch um 3 haltöne nach unten verschieben --
 mel    d d d d f - - d eb eb eb g g g g f f eb d
 {eot}
 
