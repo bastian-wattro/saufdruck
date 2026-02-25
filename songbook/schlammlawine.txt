@@ -6,8 +6,7 @@
 Vers | E- H- | E- H- | E- H- | C G |
 	single notes auf der Gitarre richtig laut
 Ref  | E- H- | C G |
---- TODO: ab hier noch um 3 haltöne nach unten verschieben --
-mel    d d d d f - - d eb eb eb g g g g f f eb d
+mel    h h h h d - - h c c c e e e e d d c h
 {eot}
 
 {start_of_verse: Intro}
@@ -15,32 +14,32 @@ mel    d d d d f - - d eb eb eb g g g g f f eb d
 
 
 {start_of_verse: V1}
-[G-]_ Eine braune Schlammla[D-]wine
-[G-]überschwemmt das [D-]ganze Land
-[G-]Sie schreiben ihre Maga[D-]zine
-[Eb]tote Menschen [Bb]liegen am Strand
+[E-]_ Eine braune Schlammla[H-]wine
+[E-]überschwemmt das [H-]ganze Land
+[E-]Sie schreiben ihre Maga[H-]zine
+[C]tote Menschen [G]liegen am Strand
 
-[G-]Während sie Partylieder [D-]grölen
-[G-]Von deren Inhalt mir das [D-]Kotzen kommt.
-[G-]Wie verächtlich kann man [D-]Menschen sehn?
-[Eb]Migration sei das [Bb]größte Problem
+[E-]Während sie Partylieder [H-]grölen
+[E-]Von deren Inhalt mir das [H-]Kotzen kommt.
+[E-]Wie verächtlich kann man [H-]Menschen sehn?
+[C]Migration sei das [G]größte Problem
 {end_of_verse}
 
 {soc}
-[G-]Das Problem seid [D-]IHR!!!
-Die [Eb]Menschen sind unten und ihr [Bb]tretet noch drauf.
-[G-]Das Problem seid [D-]ihr!
-[Eb]Wiegelt die ein'n gegen die [Bb]anderen auf. (x2)
+[E-]Das Problem seid [H-]IHR!!!
+Die [C]Menschen sind unten und ihr [G]tretet noch drauf.
+[E-]Das Problem seid [H-]ihr!
+[C]Wiegelt die ein'n gegen die [G]anderen auf. (x2)
 {eoc}
 
 {start_of_verse: V1}
-[G-]_ Reden über [D-]Menschen 
-[G-]_als während sie nur [D-]Vieh.
-[G-]Träumen von engen [D-]Grenzen,
-[Eb]ich sag nie wieder, nie wieder, [Bb]NIE!
+[E-]_ Reden über [H-]Menschen 
+[E-]_als während sie nur [H-]Vieh.
+[E-]Träumen von engen [H-]Grenzen,
+[C]ich sag nie wieder, nie wieder, [G]NIE!
 
-[G-]_ Eine braune Schlammla[D-]wine
-[G-]überschwemmt das [D-]ganze Land
-[G-]Sie laden ihre Maga[D-]zine
-[Eb]tote Menschen [Bb]liegen am Strand
+[E-]_ Eine braune Schlammla[H-]wine
+[E-]überschwemmt das [H-]ganze Land
+[E-]Sie laden ihre Maga[H-]zine
+[C]tote Menschen [G]liegen am Strand
 {end_of_verse}
