@@ -75,4 +75,4 @@ denn [D]Eike sagt; der [C#]Zapfhahn [F#]klemmt
 {c: Bridge | Ref}
 Wenn der [F#]Zapfhan klemmt [H]werden wir [C#]alle [F#]sterben.
 
-Wenn das Bier alle ist <AUS>
+Wenn das Bier alle ist

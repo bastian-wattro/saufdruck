@@ -1,6 +1,5 @@
 {pagetype: a4}
 
-{key: ?}
 {no_grid}
 {title: Kaputte Maschine}
 

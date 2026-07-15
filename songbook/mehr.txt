@@ -1,6 +1,5 @@
 {pagetype: a4}
 {no_grid}
-{key: ?}
 {title:Mehr}
 
 {comment: Intro: lange lange Steigerung}

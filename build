@@ -1,0 +1,66 @@
+#!/usr/bin/env bash
+
+
+CFG=
+
+set-cfg() {
+    if [[ -f chordpro.json ]]; then
+        CFG=chordpro.json
+        return 0
+    fi
+    echo "chrodpro.json not found" >&2
+    exit 1
+}
+
+assert-chordpro() {
+    if ! command -v chordpro; then
+        echo "ERROR: ChordPro not found" >&2
+        exit 1
+    fi
+}
+
+ensure-cfg-set() {
+    if [[ -z $CFG ]]; then
+       set-cfg
+    fi 
+}
+
+build-each() {
+    assert-chordpro
+    ensure-cfg-set
+    for chord in songbook/*.txt; do
+        _unsafe-build "$chord"
+    done
+}
+
+_unsafe-build() {
+    # assert-chordpro and ensure-cfg-set first.
+    local chord bn songname out
+    chord=$1
+    bn=$(basename "$chord")
+    songname=${bn%%.*}
+    out="pdf/$songname.pdf"
+
+
+    if chordpro --config=$CFG "$chord" --no-strict --output="$out"; then
+        echo "ok: $out updated"
+        return 0
+    fi
+    echo >&2
+    echo " ------- FAILED TO CREATE $songname" >&2
+    echo >&2
+    return 1
+}
+
+build() {
+    assert-chordpro
+    ensure-cfg-set
+    _unsafe-build "$@"
+}
+
+if return 0 2>/dev/null; then
+    # sourced
+    true
+else
+    build "$@"
+fi

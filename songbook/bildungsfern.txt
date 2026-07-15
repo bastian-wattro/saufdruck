@@ -1,6 +1,5 @@
 {pagetype: a4}
 
-{key: H-}
 {no_grid}
 {title: Bildungsfern}
 
