@@ -28,7 +28,7 @@ Ref:  F  G   A- A-
 Ich streng mich [A]an bin echt sehr [F]gut infor[G]miert.
 Ich hab nen [A]Plan    ich bin per[F]fekt präpa[G]riert 
 Und du willst[A]reden - Ja das [F]kann ich sehr [G]gut
-Willst mut und [A]zuspruch und für [F]morgen neuen [G]Mut
+Willst Trost und [A]Zuspruch und für [F]morgen neuen [G]Mut
 {end_of_verse}
 
 {start_of_chorus}
@@ -37,11 +37,12 @@ Be[F]ziehungen sind [G]schwierig mit [A-]dir. (x2)
 {end_of_chorus}
 
 {c: Instrumental}
+
 {start_of_verse: V2}
-Du hast viele Sorgen und ich gehe darauf ein
-Du hast auch Ängste - gut das rechne ich mit rein
-Jetzt fühlst du dich geborgen und auch dafür hab ich Text
-Fühlst dich verstanden. If not logged out calculate next
+Du hast viele [A]Sorgen und ich [F]gehe darauf [G]ein
+Du hast auch [A]Ängste - gut das [F]rechne ich mit [G]rein
+Jetzt fühlst du dich ge[A]borgen und auch [F]dafür hab ich [G]Text
+Fühlst dich ver[A]standen. If not logged [F]out calculate [G]next.
 {end_of_verse}
 
 {c: Chrous}
