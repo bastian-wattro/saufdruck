@@ -52,7 +52,15 @@ _unsafe-build() {
     return 1
 }
 
+usage() {
+    echo "Usage: $0 [chrod-pro.txt]..."
+}
+
 build() {
+    if [[ "${#@}" -eq 0 ]]; then
+        usage
+        exit 1
+    fi
     assert-chordpro
     ensure-cfg-set
     _unsafe-build "$@"
