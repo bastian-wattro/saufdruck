@@ -1,0 +1,31 @@
+{pagetype: a4}
+{no_grid}
+
+{key: C}
+{title:5 Minuten}
+
+{start_of_tab}
+{end_of_tab}
+
+{start_of_commend}
+Vers: H E | H E    Ref: C# |C# D#|C# |C#
+Fängt direkt mit Vers 1 an
+{end_of_commend}
+
+{start_of_verse: V1}
+Kn[H]iebeugen und [E]Ausfallschritte 
+[H]das ist echt das [E]Minimum
+{end_of_verse}
+
+{start_of_chorus}
+Sind [C#]ja nur 5 Minuten
+Ein[C#]fach nur 5 Minuten
+[D#]jeden [C#]Tag nur 5 Minuten
+Du [C#]schaffst das – 5 Minuten!
+{end_of_chorus}
+
+{start_of_verse: V2}
+Jenden [H]Abend 
+{end_of_verse}
+
+{c: Chrous}
