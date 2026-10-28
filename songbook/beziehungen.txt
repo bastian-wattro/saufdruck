@@ -27,13 +27,13 @@ Ref:  F  G   A- A-
 {start_of_verse: V1}
 Ich streng mich [A]an bin echt sehr [F]gut infor[G]miert.
 Ich hab nen [A]Plan    ich bin per[F]fekt präpa[G]riert 
-Und du willst[A]reden - Ja das [F]kann ich sehr [G]gut
+Und du willst [A]reden - Ja das [F]kann ich sehr [G]gut
 Willst Trost und [A]Zuspruch und für [F]morgen neuen [G]Mut
 {end_of_verse}
 
 {start_of_chorus}
-Be[F]ziehungen sind [G]schwierig und das [A-]liegt nicht nur an mir.
-Be[F]ziehungen sind [G]schwierig mit [A-]dir. (x2)
+Be[F]ziehungen mit [G]Menschen ham' noch [A-]nie funktioniert.
+[F]Menschen sind [G]viel zu [A-]kompliziert.
 {end_of_chorus}
 
 {c: Instrumental}
