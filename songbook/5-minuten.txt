@@ -8,8 +8,8 @@
 {end_of_tab}
 
 {start_of_commend}
+Intro: halber Vers auf Bass
 Vers: H E | H E    Ref: C# |C# D#|C# |C#
-Fängt direkt mit Vers 1 an
 {end_of_commend}
 
 {start_of_verse: V1}
@@ -25,7 +25,27 @@ Du [C#]schaffst das – 5 Minuten!
 {end_of_chorus}
 
 {start_of_verse: V2}
-Jenden [H]Abend 
+[H]Zweimal täglich [E]Zahnseide und
+[H]Bürsten für den [E]Zwischenraum
 {end_of_verse}
 
 {c: Chrous}
+
+{start_of_verse: V3}
+[H]Abends 10 Vo[E]kabeln, 
+dann [H]lernst du das ganz [E]schnell
+{end_of_verse}
+
+{c: Chrous}
+
+{start_of_verse: V4}
+[H]8 mal disen [E]Song gehört
+und [H]einmal kompo[E]niert
+{end_of_verse}
+
+{start_of_chorus}
+Warn [C#]auch nur 5 Minuten
+Echt [C#]geile 5 Minuten
+Punk[D#]rock [C#]in 5 Minuten
+Du [C#]schaffst das – 5 Minuten!
+{end_of_chorus}
