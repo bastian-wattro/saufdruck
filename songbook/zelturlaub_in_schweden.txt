@@ -33,9 +33,9 @@ Mh, Schatz du bist mir mein Autan
 
 
 {start_of_verse: V2}
-Nach [D]15 Jahren [G]Ehe bin ichs im [C]Winter auch mal [A-]Leid
-Doch [D]immer wenn der [G]Sommer kommt weiß [C]ich wir bleim zu [A-]Zweit.
-Nach [D]20 Jahren [G]Ehe bin ich es [C]jeden Winter [A-]Leid
+Nach [D]14 Tagen [G]Ski-Urlaub da [C]war ichs eigentlich [A-]Leid
+Doch [D]als dann der [G]Sommer kam wusst [C]ich wir bleim zu [A-]Zweit.
+Nach [D]14 Jahren [G]Ehe bin ich es [C]jeden Winter [A-]Leid
 doch [D]immer wenn es [G]summt um uns weiß [C]ich uns bleibt noch [A-]Zeit.
 {end_of_verse}
 
