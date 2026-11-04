@@ -17,6 +17,7 @@
           packages = [
             pkgs.perlPackages.AppMusicChordPro
             pkgs.zathura
+            pkgs.poetry
           ];
         };
       });
